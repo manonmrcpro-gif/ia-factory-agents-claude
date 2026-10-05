@@ -10,8 +10,8 @@
     {
       "name": "ia-factory-agents",
       "source": "./",
-      "description": "Les 11 agents de la bibliothèque IA Factory en skills.",
-      "version": "0.1.0"
+      "description": "Les 11 agents de la bibliothèque IA Factory en skills, plus l'interview qui crée tes documents de référence.",
+      "version": "0.2.0"
     }
   ]
 }
