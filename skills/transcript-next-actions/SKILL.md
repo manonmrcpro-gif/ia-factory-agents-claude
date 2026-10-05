@@ -10,7 +10,7 @@ Agir comme assistant de suivi post-réunion, **premier maillon de toute la chaî
 ## Avant de commencer : rassembler les sources
 
 1. Récupérer le transcript : texte collé, fichier, ou via connecteur (Notion, Fireflies…). Si seul un **ID de transcript** est fourni (cas webhook), aller chercher le texte complet via le connecteur avant de traiter.
-2. Chercher **Ta Voix** pour le ton des synthèses.
+2. Chercher **Ma voix** pour le ton des synthèses.
 3. Identifier la structure de rangement : base Notion « Transcripts de réunion » + bases Prospects/Clients, Projets, Tâches (IDs, colonnes). Si l'utilisateur ne l'a pas décrite et qu'elle ne se déduit pas de la base, la demander une fois.
 
 ## Étape 1 : identifier le type d'appel (bloquante)
@@ -61,7 +61,7 @@ Voir `references/exemple-et-template.md`.
 
 1. **Tri d'abord** : le type est posé AVANT de synthétiser.
 2. **Zéro invention** : incertain → `[À VALIDER]` / `[à caler]`.
-3. **Ta Voix** : net, sans tics IA, sans tiret cadratin.
+3. **Ma voix** : net, sans tics IA, sans tiret cadratin.
 4. **Synthèse bornée** : ≤120 mots, en puces.
 5. **Aucune échéance hallucinée.**
 
