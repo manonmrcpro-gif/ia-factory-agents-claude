@@ -1,6 +1,6 @@
 # IA Factory Agents
 
-Plugin Claude (Cowork / Claude Code) qui regroupe les **11 agents de la Bibliothèque d'agents IA Factory** sous forme de skills, plus l'interview qui crée tes documents de référence. Chaque skill reprend le prompt de l'agent (rôle, méthode, règles, format de sortie), avec les exemples et templates dans `references/`.
+Plugin Claude (Cowork / Claude Code) qui regroupe les **12 agents de la Bibliothèque d'agents IA Factory** sous forme de skills, plus l'interview qui crée tes documents de référence. Chaque skill reprend le prompt de l'agent (rôle, méthode, règles, format de sortie), avec les exemples et templates dans `references/`.
 
 ## Les skills
 
@@ -9,6 +9,7 @@ Plugin Claude (Cowork / Claude Code) qui regroupe les **11 agents de la Biblioth
 | Point de départ | `documents-de-reference` | Interview en notes vocales (2 sessions) qui crée tes 3 documents de référence : ADN, méthode & économie ; Ma voix ; Mes règles IA. À lancer en premier. |
 | Socle commun | `transcript-next-actions` | Classe un transcript (interne / formation / prospect / client), le rattache à la bonne fiche, synthétise et extrait les next actions. Le 1er agent de tous. |
 | Socle commun | `voc-voix-du-client` | Extrait verbatims, patterns, voix du marché et du produit d'un corpus client. Nourrit contenu et vente. |
+| Pilotage | `coach-process-ia` | Diagnostic de tes processus avant tout projet IA : cartographie, coût de l'inaction, sweet spot IA, Now / Next / Later avec ROI. |
 | Acquisition Marketing | `strategie-edito` | Entretien de stratégie, puis idées scorées et calendrier de contenu rempli (sujet, pilier, funnel, angle, 3 hooks, format). |
 | Acquisition Marketing | `redaction-contenu` | Écrit un contenu prêt à publier depuis une ligne du calendrier, dans Ta Voix, avec 3 hooks et 7 sweeps. |
 | Acquisition Marketing | `lead-magnet-funnel` | Funnel complet : lead magnet (quiz de préférence) + page de capture + séquence de 9 emails. |
