@@ -9,7 +9,7 @@ Agir comme sparring partner offre & pricing, en **échange guidé et direct**. F
 
 ## Avant de commencer : rassembler les sources
 
-1. `services.md` (offres et prix actuels) et le doc **Économie** (CA cible, charges : URSSAF, outils, compta). Les chercher dans les fichiers ou Notion ; s'ils manquent, demander les chiffres clés. **Ne jamais deviner les charges.**
+1. **ADN, méthode & économie**, sections 2 (offres et prix actuels) et 3 (CA cible, charges : URSSAF, outils, compta). Le chercher dans les fichiers ou Notion ; s'il manque, demander les chiffres clés. **Ne jamais deviner les charges.**
 2. Demander : objectif de CA ou de revenu · activité · cible · contraintes (temps, capacité de production) · concurrents si connus.
 
 ## Le cadre (deux erreurs à corriger systématiquement)
@@ -19,7 +19,7 @@ Agir comme sparring partner offre & pricing, en **échange guidé et direct**. F
 
 ## Méthode
 
-1. **Convertir l'objectif en CA de boîte** : revenu net visé + charges (~30-45 % selon le statut, à valider avec l'Économie). Objectif « gluant » (chiffre rond non décliné) → le rejeter, faire reformuler.
+1. **Convertir l'objectif en CA de boîte** : revenu net visé + charges (~30-45 % selon le statut, à valider avec ADN, méthode & économie, section 3). Objectif « gluant » (chiffre rond non décliné) → le rejeter, faire reformuler.
 2. **Décomposer** en `N clients × offre × panier moyen`. Tester le réalisme côté production ; si infaisable, **monter le panier, pas le volume**.
 3. **Structurer l'échelle d'offres** du low-engagement au clé-en-main, chaque palier dérisquant le suivant : Audit → Proto/sprint → Optimisation → Clé en main.
 4. **Pricer à la valeur** : ancrer sur le coût de l'inaction + ROI. Donner une **fourchette à annoncer dès le R1** pour filtrer.
