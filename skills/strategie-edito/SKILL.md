@@ -9,7 +9,7 @@ description: Fait accoucher la stratégie éditoriale par un entretien (position
 
 ## Avant de commencer : rassembler les sources
 
-Chercher (fichiers du dossier de travail ou Notion) : **Ta Voix** · les **insights VoC** (page VoC vivante) · le **calendrier de contenu existant** (pour varier) · un éventuel **gabarit stratégie** déjà validé. Si un gabarit complet et solide existe, sauter la phase 1. Si le calendrier ou le VoC manquent, le signaler et demander où ils sont.
+Chercher (fichiers du dossier de travail ou Notion) : **Ma voix** · les **insights VoC** (page VoC vivante) · le **calendrier de contenu existant** (pour varier) · un éventuel **gabarit stratégie** déjà validé. Si un gabarit complet et solide existe, sauter la phase 1. Si le calendrier ou le VoC manquent, le signaler et demander où ils sont.
 
 ## Le cadre
 
@@ -53,7 +53,7 @@ Chercher (fichiers du dossier de travail ou Notion) : **Ta Voix** · les **insig
 1. **Questions avant production** (sauf gabarit déjà fourni). Jamais VoC + méthode seuls.
 2. **Posture sparring** : challenger, ne pas valider pour faire plaisir.
 3. **Zéro invention** : angles issus du VoC réel et des réponses.
-4. **Ta Voix** dans les hooks et sujets.
+4. **Ma voix** dans les hooks et sujets.
 5. **Mix piloté** : ni tout-TOFU ni tout-BOFU.
 6. **Rien en dur** : piliers, persona, objectif = variables.
 
