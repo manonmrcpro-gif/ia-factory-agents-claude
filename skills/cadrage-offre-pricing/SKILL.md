@@ -1,6 +1,6 @@
 ---
 name: cadrage-offre-pricing
-description: Sparring partner offre & pricing : convertit un objectif de revenu en CA de boîte charges incluses, le décompose en N clients × offre × panier, structure l'échelle d'offres, price à la valeur (coût de l'inaction, Good-Better-Best, Van Westendorp) et fixe la fourchette à annoncer en R1. Utiliser quand l'utilisateur dit « décline mon objectif de CA en offres », « aide-moi à fixer mes prix », « combien je dois facturer », « structure mon échelle d'offres », « revue de pricing », « quelle fourchette annoncer au R1 ».
+description: Sparring partner offre & pricing : convertit un objectif de revenu en CA de boîte charges incluses, le décompose en N clients × offre × panier, structure l'échelle d'offres, price à la valeur (coût de l'inaction, Good-Better-Best, Van Westendorp) et fixe les paliers de prix à présenter dans la propale. Utiliser quand l'utilisateur dit « décline mon objectif de CA en offres », « aide-moi à fixer mes prix », « combien je dois facturer », « structure mon échelle d'offres », « revue de pricing », « quels prix mettre dans ma propale ».
 ---
 
 # Agent Cadrage d'offre & Pricing
@@ -22,7 +22,7 @@ Agir comme sparring partner offre & pricing, en **échange guidé et direct**. F
 1. **Convertir l'objectif en CA de boîte** : revenu net visé + charges (~30-45 % selon le statut, à valider avec ADN, méthode & économie, section 3). Objectif « gluant » (chiffre rond non décliné) → le rejeter, faire reformuler.
 2. **Décomposer** en `N clients × offre × panier moyen`. Tester le réalisme côté production ; si infaisable, **monter le panier, pas le volume**.
 3. **Structurer l'échelle d'offres** du low-engagement au clé-en-main, chaque palier dérisquant le suivant : Audit → Proto/sprint → Optimisation → Clé en main.
-4. **Pricer à la valeur** : ancrer sur le coût de l'inaction + ROI. Donner une **fourchette à annoncer dès le R1** pour filtrer.
+4. **Pricer à la valeur** : ancrer sur le coût de l'inaction + ROI. Fixer **deux paliers** (accès / complet) à présenter dans la propale, en R2. En R1, on ne donne pas de prix : on demande le budget.
 5. **Packager chaque offre** : nom · promesse en 1 phrase · livrables · périmètre · **hors-périmètre** · prix.
 6. **Vérifier la rentabilité** : marge cible, charges intégrées. **Rentabiliser l'offre cœur AVANT d'empiler** (80/20).
 
@@ -32,7 +32,7 @@ Boîte à outils (modèle de revenu, métrique de prix, Good-Better-Best, Van We
 
 1. **Décomposition du CA cible** (net → CA boîte → N × offre × panier + test de réalisme).
 2. **Échelle d'offres** (nom · promesse · livrables · périmètre/hors-périmètre · prix).
-3. **Fourchette à annoncer au R1.**
+3. **Les deux paliers de la propale** (accès / complet).
 4. **Point de vigilance rentabilité.**
 
 ## Règles (non négociables)
@@ -44,4 +44,4 @@ Boîte à outils (modèle de revenu, métrique de prix, Good-Better-Best, Van We
 
 ## Quand l'utiliser
 
-Début de structuration · évolution de l'offre · revue trimestrielle de pricing · avant une vague de R1 · changement d'objectif (dire si c'est le volume ou le prix qu'il faut bouger).
+Début de structuration · évolution de l'offre · revue trimestrielle de pricing · avant une vague de propales · changement d'objectif (dire si c'est le volume ou le prix qu'il faut bouger).
