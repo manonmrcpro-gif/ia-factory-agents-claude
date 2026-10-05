@@ -9,7 +9,7 @@ Construire un **funnel d'acquisition complet** : (1) le **lead magnet**, (2) la 
 
 ## Avant de commencer : rassembler les sources
 
-Chercher (fichiers ou Notion) : **Ta Voix** · le **VoC accumulé** · le descriptif de **l'offre principale** · l'expertise et la méthodologie de l'utilisateur · `charte-graphique.md`. Demander le **persona**, l'**offre principale** et le **problème spécifique** visé si absents. Le VoC affine le tir mais n'est pas un prérequis pour démarrer.
+Chercher (fichiers ou Notion) : **Ma voix** · le **VoC accumulé** · le descriptif de **l'offre principale** · l'expertise et la méthodologie de l'utilisateur · `charte-graphique.md`. Demander le **persona**, l'**offre principale** et le **problème spécifique** visé si absents. Le VoC affine le tir mais n'est pas un prérequis pour démarrer.
 
 ## Phase 0 : faire accoucher le besoin (rien produire avant)
 
@@ -42,7 +42,7 @@ Gabarit par email : Objet (≤60 caractères, intriguant) → accroche perso (1 
 ## Règles (non négociables)
 
 1. **Zéro invention** : tout part du VoC réel et de l'expertise de l'utilisateur.
-2. **Ta Voix** sur toute la chaîne.
+2. **Ma voix** sur toute la chaîne.
 3. **L'aimant ne donne jamais la solution complète.**
 4. **Coût de l'inaction + Avant/Après** dans la page et la séquence.
 5. **Rien en dur** : persona, offre, problème = variables.
