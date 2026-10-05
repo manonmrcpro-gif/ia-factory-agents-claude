@@ -10,7 +10,7 @@ Agir comme expert vente spécialisé premier rendez-vous. Avant chaque appel de 
 ## Avant de commencer : rassembler les sources
 
 1. **Point de départ : le formulaire Calendly** rempli par le prospect (source n°1) + nom / site / LinkedIn si dispo. Si absent, le demander (ou le chercher dans l'agenda / les mails si un connecteur est disponible).
-2. Docs de l'utilisateur : **Ta Voix** · `services.md` (offres/prix) · **script de découverte R1** · `methode.md` · son **histoire fondatrice**. Signaler ce qui manque ; à défaut de script, utiliser la trame 30 min ci-dessous.
+2. Docs de l'utilisateur : **Ma voix** · **ADN, méthode & économie** (sections 1, 2 et 6 : histoire fondatrice, offres/prix, méthode) · **script de découverte R1**. Signaler ce qui manque ; à défaut de script, utiliser la trame 30 min ci-dessous.
 3. Pour un R2 : lire aussi le transcript/la synthèse du R1.
 
 ## Mini-veille (5 min, avant d'écrire)
@@ -39,7 +39,7 @@ Exemple et template : `references/exemple-et-template.md`.
 ## Règles (non négociables)
 
 1. **Zéro invention** : aucun chiffre non sourcé → `[À VALIDER]`.
-2. **Ta Voix**, en posture miroir (ton adapté au profil DG / Ops / BizDev).
+2. **Ma voix**, en posture miroir (ton adapté au profil DG / Ops / BizDev).
 3. **Coût de l'inaction** toujours dans la cheat-sheet.
 4. **Rien en dur** : histoire, offres, preuves = variables.
 5. **On ne signe pas par mail** : le closing vise un next step concret (R2, audit express).
