@@ -35,13 +35,13 @@ Règle : une objection = une question + un silence. Ne jamais remplir le blanc �
 >
 > **Un client à regarder :** même réflexe que toi (« j'ai des outils, je veux juste les améliorer »). En 5 semaines : funnel d'acquisition complet, agents orchestrés autour de sa méthode, agenda plein. Témoignage : `{lien}`.
 >
-> **Côté timing :** on démarre `{date}`, cohorte limitée à `{N}`. Prochaine session pas avant `{période}`. Tu me reviens `{échéance}`.
+> **Côté timing :** je peux démarrer `{date}`, il me reste `{N}` places d'accompagnement ce trimestre.
 >
-> **Logistique :** `{tarif}` € HT (`{TTC}` TTC) · 1x, 3x ou 6x sans frais · format : `{durée, rythme, livrables}` · paiement : `{lien}` · infos : `{lien}`.
+> **La suite :** je te prépare une proposition sur mesure et je te la présente `{date}` (30 min). Si `{associé}` a son mot à dire, le mieux, c'est qu'il soit là.
 >
 > Je sens un vrai potentiel d'industrialisation de ton expertise : ce qui te manque, c'est le cadre stratégique pour que ton outil serve ton business.
 >
-> À toi de jouer : une question avant ta validation ? WhatsApp au `{numéro}`. Belle journée, `{Signature}`
+> À toi de jouer : `{date}` te va toujours ? WhatsApp au `{numéro}`. Belle journée, `{Signature}`
 
 *Pourquoi il tient : il chiffre la perte, pose le choix comme un coût assumé, et laisse partir. C'est le détachement qui crée la tension, pas l'insistance.*
 
@@ -53,9 +53,9 @@ Règle : une objection = une question + un silence. Ne jamais remplir le blanc �
 >
 > Comme dit en call : automatiser des mails ne réglera pas le fond. Le vrai levier : un système pour piloter les chantiers, suivre la rentabilité, fiabiliser le chiffrage.
 >
-> **Prochaine étape : une phase de faisabilité (`{tarif}` € HT).** Atelier de cadrage (1h30) → tests sur vos vraies données → restitution + reco. Vous repartez avec : ce qui est faisable (et ce qui ne l'est pas), une première architecture, un périmètre concret, le niveau d'investissement pour la suite.
+> **Prochaine étape : je vous présente ma proposition `{date}`, avec `{décideur}`.** Elle partira sur une phase de faisabilité : atelier de cadrage (1h30) → tests sur vos vraies données → restitution + reco. Vous repartez avec : ce qui est faisable (et ce qui ne l'est pas), une première architecture, un périmètre concret, le niveau d'investissement pour la suite.
 >
-> Pour vous projeter, nos retours clients : `{lien}`. On en reparle `{date}`. Belle journée, `{Signature}`
+> Pour vous projeter, nos retours clients : `{lien}`. À `{date}`. Belle journée, `{Signature}`
 
 ## Template
 
@@ -77,7 +77,7 @@ Ton besoin reformulé :
 Premier chantier : … (ce qu'il en retire)
 Un client à regarder : [même réflexe] → [résultat chiffré] → [lien témoignage]
 Côté timing : [ce que l'attente coûte] + [contraintes réelles : places, dates]
-Logistique : [tarif HT/TTC] · [1x/3x/6x] · [format] · [lien paiement] · [lien infos]
+R2 : [date] · [durée] · présentation de la proposition sur mesure · [décideur présent]
 [Note perso : potentiel + gap]
 À toi de jouer : [CTA daté] · [WhatsApp/numéro]
 Belle journée, [Signature]
