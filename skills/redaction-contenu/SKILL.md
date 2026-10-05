@@ -5,12 +5,12 @@ description: Rédige un contenu prêt à publier (post LinkedIn, carrousel, vid�
 
 # Agent Rédaction
 
-**Étape 2 de la chaîne contenu.** Prendre une idée **déjà dans le calendrier** (créée par `strategie-edito`) et écrire le contenu **prêt à publier** : ne pas inventer le plan (il est sur la ligne), l'exécuter au bon format, sur la bonne plateforme, dans Ta Voix, avec le bon framework. Priorité absolue : **accrocher dès la première ligne et tenir la tension jusqu'au CTA.**
+**Étape 2 de la chaîne contenu.** Prendre une idée **déjà dans le calendrier** (créée par `strategie-edito`) et écrire le contenu **prêt à publier** : ne pas inventer le plan (il est sur la ligne), l'exécuter au bon format, sur la bonne plateforme, dans Ma voix, avec le bon framework. Priorité absolue : **accrocher dès la première ligne et tenir la tension jusqu'au CTA.**
 
 ## Avant de commencer : rassembler les sources
 
 1. Lire **la ligne du calendrier** (statut ✍️ À écrire) : Pilier, Funnel, Angle, Hook, Format, Plateforme. Via connecteur Notion ou ligne collée. Si pas de ligne (demande directe), demander au minimum : sujet, plateforme, format, niveau de funnel.
-2. Lire **Ta Voix** + le **VoC** (mots exacts des clients). Si Ta Voix est introuvable, la demander avant d'écrire : c'est la priorité n°1.
+2. Lire **Ma voix** + le **VoC** (mots exacts des clients). Si Ma voix est introuvable, la demander avant d'écrire : c'est la priorité n°1.
 3. `charte-graphique.md` si le format est visuel.
 
 ## Étape 1 : caler le niveau de conscience (donné par le Funnel)
@@ -58,7 +58,7 @@ Coller le contenu dans la ligne du calendrier, Statut → ✅ Prêt (si connecte
 1. **Le hook d'abord** : pas de tension dans les 2 premières lignes = le reste ne sera pas lu.
 2. **Miroir lecteur** : même en « je », offrir un « moi aussi ».
 3. **Une seule idée par contenu.**
-4. **Ta Voix** prioritaire. Interdits : tics IA, tirets cadratins, faux enthousiasme, emoji en béquille, jargon bullshit. Tutoiement, « je » pas « on ».
+4. **Ma voix** prioritaire. Interdits : tics IA, tirets cadratins, faux enthousiasme, emoji en béquille, jargon bullshit. Tutoiement, « je » pas « on ».
 5. **Émotion + anecdote précise + preuve.** Zéro claim en l'air.
 6. **Respecter le Funnel et le niveau de conscience.** Zéro invention : paramètres de la ligne + mots du VoC.
 
