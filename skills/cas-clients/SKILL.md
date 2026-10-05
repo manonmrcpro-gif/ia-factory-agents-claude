@@ -11,7 +11,7 @@ Transformer un projet client réussi en **cas client convaincant**, sans que ça
 
 1. La **fiche Projets** du client (Contexte « Avant » → Ce qu'on a fait → Résultats « Après » → Verbatim → Accord client), via Notion ou fichier.
 2. Les **insights VoC** du client.
-3. `services.md`, `methode.md`, **Ta Voix**, `charte-graphique.md` si visuel.
+3. **ADN, méthode & économie** (sections 2 et 6), **Ma voix**, `charte-graphique.md` si visuel.
 4. Si le client ou le projet n'est pas désigné, le demander.
 
 ## Le cadre
@@ -46,5 +46,5 @@ Produire les deux sauf demande contraire. Exemple et template : `references/exem
 1. **Zéro invention** : chiffres et verbatims validés par le client. `[À VALIDER]` sinon.
 2. **Le client est le héros.**
 3. **Avant / Après obligatoire** + une métrique business + un délai.
-4. **Ta Voix** dans le récit ; le verbatim reste celui du client.
+4. **Ma voix** dans le récit ; le verbatim reste celui du client.
 5. **Accord client AVANT publication.** Pas d'accord = pas de cas client publié (le premier jet peut être rédigé, marqué « accord à demander »).
