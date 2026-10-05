@@ -2,7 +2,7 @@
 
 **1. Intro & cadrage (2 min).** Icebreaker → « tu / vous ? » → plan (10 min enjeux · 10 min outils · 10 min approche) → « OK pour des notes IA ? »
 
-**2. Storytelling perso (2 min).** `{histoire fondatrice}` reliée à ses enjeux.
+**2. Storytelling perso (2 min).** `{histoire fondatrice}` (ADN, méthode & économie, section 1) reliée à ses enjeux.
 
 **3. Exploration (10 min) :**
 - « Qu'est-ce qui vous a donné envie d'accepter ce call ? »
