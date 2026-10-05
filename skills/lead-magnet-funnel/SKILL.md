@@ -25,7 +25,7 @@ Interroger, challenger, reformuler. Réponse molle → relancer jusqu'à ce que 
 
 ## Partie 1 : le lead magnet
 
-Respecter les **7 critères** (voir `references/criteres-et-formats.md`), en particulier : focus QUOI / POURQUOI / coût d'opportunité, **jamais le COMMENT complet** (c'est l'offre payante). Titre via un framework : *Comment [GAIN] sans [PAIN]* · *Comment [GAIN] même si [PAIN]* · *X piliers pour [GAIN] sans [PAIN]*. Pour un quiz, suivre le zoom quiz (5-8 questions, 3-4 profils, capture email AVANT le résultat, réponses qui remontent au CRM).
+Respecter les **7 critères** (voir `references/criteres-et-formats.md`), en particulier : focus QUOI / POURQUOI / coût d'opportunité, **jamais le COMMENT complet** (c'est l'offre payante). Titre via un framework : *Comment [GAIN] sans [PAIN]* · *Comment [GAIN] même si [PAIN]* · *X piliers pour [GAIN] sans [PAIN]*. Pour un quiz, suivre le zoom quiz (5-8 questions, 3-4 profils, capture email AVANT le résultat, réponses qui remontent au CRM). Le résultat vise le niveau **rapport de diagnostic personnalisé** (scores par axe, facteur limitant, manque à gagner, priorités, plan 90 jours, CTA) : voir le zoom dans `references/criteres-et-formats.md`.
 
 ## Partie 2 : la page de capture
 
