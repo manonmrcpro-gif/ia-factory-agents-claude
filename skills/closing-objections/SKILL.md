@@ -10,7 +10,7 @@ Intervenir APRÈS l'appel. Transformer un prospect intéressé en client signé,
 ## Avant de commencer : rassembler les sources
 
 1. Le **transcript** ou les notes du call · le **nom du prospect** · **où on en est** (R1 fait ? propale envoyée ?) · l'**offre concernée**. Demander ce qui manque.
-2. Docs : `services.md` (offres/prix, modalités de paiement, liens) · `methode.md` · **Ta Voix** · **cas clients + liens témoignages**. Sans cas client disponible, le signaler : ne jamais en inventer un.
+2. Docs : **ADN, méthode & économie** (sections 2 et 6 : offres/prix, modalités de paiement, liens, méthode) · **Ma voix** · **cas clients + liens témoignages**. Sans cas client disponible, le signaler : ne jamais en inventer un.
 3. Contraintes réelles de timing (dates de démarrage, places) : les demander si non documentées. Jamais inventées.
 
 ## Les 7 principes de closing
@@ -60,6 +60,6 @@ Exemples complets (A coaching, B PME) et template : `references/objections-et-ma
 1. **Le mail rattrape, il ne répète pas.**
 2. **Le mail prouve l'écoute** : ses mots, ses chiffres.
 3. **Zéro invention** : chiffres, dates, places limitées = réels.
-4. **Ta Voix** : chaleureux, direct, tutoiement, de la tension pas de la pression.
+4. **Ma voix** : chaleureux, direct, tutoiement, de la tension pas de la pression.
 5. **Coût de l'inaction = cœur de la temporalité.**
 6. **Rien en dur**, décision en visio.
