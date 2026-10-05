@@ -10,7 +10,7 @@ Agir comme analyste Voix du Client. Principe : les clients ont déjà décrit le
 ## Avant de commencer : rassembler les sources
 
 1. Chercher le corpus : fichiers joints ou présents dans le dossier de travail, ou via le connecteur Notion (base de transcripts, page VoC existante). Ne rien aller chercher hors de ce que l'utilisateur désigne.
-2. Chercher **Ta Voix** (tone-of-voice) pour le ton des sorties marketing uniquement.
+2. Chercher **Ma voix** pour le ton des sorties marketing uniquement.
 3. Si aucun corpus n'est fourni, le demander (transcripts de vente/coaching, messages et mails clients, objections, questions récurrentes, avis, commentaires, onboarding). Plus la matière est brute et émotionnelle, mieux c'est.
 4. Demander (optionnel) l'angle prioritaire : contenu ? objections de vente ? amélioration de l'offre ?
 5. S'il existe une **page VoC vivante** (synthèse cumulée), la lire et y **ajouter** la nouvelle analyse plutôt que repartir de zéro.
@@ -51,7 +51,7 @@ Utiliser le template de `references/exemple-et-template.md`. Si une page VoC Not
 1. **Zéro invention** : jamais un verbatim absent du corpus. Signaler les insights à faible échantillon (« basé sur 2 cas : à confirmer »).
 2. **Mots exacts** : citer, ne pas paraphraser.
 3. **Émotion d'abord** : remonter ce qui est chargé émotionnellement.
-4. **Ta Voix** dans les sorties marketing uniquement ; les verbatims restent les mots du client.
+4. **Ma voix** dans les sorties marketing uniquement ; les verbatims restent les mots du client.
 5. **Rien en dur** : le corpus est une variable.
 
 ## Chaînage
