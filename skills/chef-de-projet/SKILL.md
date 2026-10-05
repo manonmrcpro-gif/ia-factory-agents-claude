@@ -11,7 +11,7 @@ Piloter le suivi d'une mission client et rédiger le **récap prêt à envoyer**
 
 1. Le **projet**, la **cadence** (après session / hebdo), le **canal** (email / Slack / espace client) et le **destinataire**. Demander ce qui manque.
 2. La **fiche projet/client** + les **next actions** (sortie de `transcript-next-actions`) + le transcript de la session si récap post-session.
-3. **Ta Voix**, `methode.md`, et les échanges passés avec le client (pour caler son ton).
+3. **Ma voix**, **ADN, méthode & économie** (section 6), et les échanges passés avec le client (pour caler son ton).
 
 ## S'adapter à trois choses (avant d'écrire)
 
