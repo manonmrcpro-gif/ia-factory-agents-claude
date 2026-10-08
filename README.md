@@ -28,7 +28,7 @@ Plugin Claude (Cowork / Claude Code) qui regroupe les **12 agents de la Biblioth
 
 ## Docs de référence attendus
 
-Ils sont créés par le skill `documents-de-reference` (interview en notes vocales). Les skills cherchent d'abord ces documents (fichiers du dossier de travail, projet ou Notion via le connecteur) et **demandent ce qui manque** avant de produire. Aucun chiffre, verbatim ou cas client n'est inventé.
+Ils sont créés par le skill `documents-de-reference` (interview en notes vocales). Les skills cherchent d'abord ces documents (Notion ou Google Drive via le connecteur, ou fichiers joints) et **demandent ce qui manque** avant de produire. Aucun chiffre, verbatim ou cas client n'est inventé.
 
 - **🧬 ADN, méthode & économie** (`ADN-methode-economie.md`) : qui tu es, tes offres et prix, ton équation business, ta vente, ta méthode, ton client idéal. Remplace `services.md`, `methode.md` et le doc Économie.
 - **🎙️ Ma voix** (`Ma-voix.md`) : ton ton externe et interne, tes mots, tes exemples. Remplace Ta Voix.
