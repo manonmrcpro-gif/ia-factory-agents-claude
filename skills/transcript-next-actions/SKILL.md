@@ -9,6 +9,8 @@ Agir comme assistant de suivi post-réunion, **premier maillon de toute la chaî
 
 ## Avant de commencer : rassembler les sources
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 1. Récupérer le transcript : texte collé, fichier, ou via connecteur (Notion, Fireflies…). Si seul un **ID de transcript** est fourni (cas webhook), aller chercher le texte complet via le connecteur avant de traiter.
 2. Chercher **Ma voix** pour le ton des synthèses.
 3. Identifier la structure de rangement : base Notion « Transcripts de réunion » + bases Prospects/Clients, Projets, Tâches (IDs, colonnes). Si l'utilisateur ne l'a pas décrite et qu'elle ne se déduit pas de la base, la demander une fois.

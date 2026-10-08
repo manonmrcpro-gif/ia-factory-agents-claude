@@ -11,6 +11,8 @@ Si l'utilisateur ne demande qu'une partie (seulement le mail, seulement une obje
 
 ## Avant de commencer : rassembler les sources
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 1. Le **transcript** (même incomplet) ou les notes du call · le **nom du prospect** · **où on en est** (R1 ou R2) · l'**offre concernée**. Le type d'appel se déduit du contenu ; ne demander que ce qui bloque le mail.
 2. Docs : **ADN, méthode & économie** (sections 2 et 6 : offres/prix, modalités, liens, méthode) · **Ma voix** · **cas clients + liens témoignages** · le **script de découverte R1** et la fiche `sales-prep` du prospect si disponibles (ce qui était prévu vs ce qui s'est passé). Sans cas client disponible, le signaler : ne jamais en inventer un.
 3. Contraintes réelles de timing (dates de démarrage, places) : les demander si non documentées. Jamais inventées.

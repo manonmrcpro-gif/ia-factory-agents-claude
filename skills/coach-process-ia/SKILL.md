@@ -54,6 +54,8 @@ Détail des questions, grille de cartographie, calcul de ROI et exemple : `refer
 
 ## Sources utiles
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 **ADN, méthode & économie** (activité, offres, organisation) si disponible. Transcripts de clients ou d'appels si l'utilisateur veut faire le diagnostic pour un client.
 
 ## Chaînage

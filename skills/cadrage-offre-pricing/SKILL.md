@@ -9,6 +9,8 @@ Agir comme sparring partner offre & pricing, en **échange guidé et direct**. F
 
 ## Avant de commencer : rassembler les sources
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 1. **ADN, méthode & économie**, sections 2 (offres et prix actuels) et 3 (CA cible, charges : URSSAF, outils, compta). Le chercher dans les fichiers ou Notion ; s'il manque, demander les chiffres clés. **Ne jamais deviner les charges.**
 2. Demander : objectif de CA ou de revenu · activité · cible · contraintes (temps, capacité de production) · concurrents si connus.
 

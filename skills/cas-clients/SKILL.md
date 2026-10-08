@@ -9,6 +9,8 @@ Transformer un projet client réussi en **cas client convaincant**, sans que ça
 
 ## Avant de commencer : rassembler les sources
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 1. La **fiche Projets** du client (Contexte « Avant » → Ce qu'on a fait → Résultats « Après » → Verbatim → Accord client), via Notion ou fichier.
 2. Les **insights VoC** du client.
 3. **ADN, méthode & économie** (sections 2 et 6), **Ma voix**, `charte-graphique.md` si visuel.

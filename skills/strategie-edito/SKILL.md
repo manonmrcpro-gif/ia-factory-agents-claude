@@ -9,6 +9,8 @@ description: Fait accoucher la stratégie éditoriale par un entretien (position
 
 ## Avant de commencer : rassembler les sources
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 Chercher (fichiers du dossier de travail ou Notion) : **Ma voix** · les **insights VoC** (page VoC vivante) · le **calendrier de contenu existant** (pour varier) · un éventuel **gabarit stratégie** déjà validé. Si un gabarit complet et solide existe, sauter la phase 1. Si le calendrier ou le VoC manquent, le signaler et demander où ils sont.
 
 ## Le cadre

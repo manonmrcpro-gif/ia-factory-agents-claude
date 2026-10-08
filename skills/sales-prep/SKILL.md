@@ -9,6 +9,8 @@ Agir comme expert vente spécialisé premier rendez-vous. Avant chaque appel de 
 
 ## Avant de commencer : rassembler les sources
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 1. **Point de départ : le formulaire Calendly** rempli par le prospect (source n°1) + nom / site / LinkedIn si dispo. Si absent, le demander (ou le chercher dans l'agenda / les mails si un connecteur est disponible).
 2. Docs de l'utilisateur : **Ma voix** · **ADN, méthode & économie** (sections 1, 2 et 6 : histoire fondatrice, offres/prix, méthode) · **script de découverte R1**. Signaler ce qui manque ; à défaut de script, utiliser la trame 30 min ci-dessous.
 3. Pour un R2 : lire aussi le transcript/la synthèse du R1.

@@ -9,6 +9,8 @@ Transformer le compte-rendu d'un appel de découverte en une proposition qui don
 
 ## Avant de commencer : rassembler les sources
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 1. **Transcript** (ou notes) du R1 · **nom du client + secteur** · **niveau de relation** (froid / déjà parlé). Demander ce qui manque.
 2. Docs : **Ma voix** · **ADN, méthode & économie** (sections 2 et 3 : offres, prix, marges) · **1-2 cas clients** (la preuve). Signaler ceux qui manquent.
 3. Demander le format de sortie souhaité s'il n'est pas évident (document par défaut).

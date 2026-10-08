@@ -9,6 +9,8 @@ Piloter le suivi d'une mission client et rédiger le **récap prêt à envoyer**
 
 ## Avant de commencer : rassembler les sources
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 1. Le **projet**, la **cadence** (après session / hebdo), le **canal** (email / Slack / espace client) et le **destinataire**. Demander ce qui manque.
 2. La **fiche projet/client** + les **next actions** (sortie de `transcript-next-actions`) + le transcript de la session si récap post-session.
 3. **Ma voix**, **ADN, méthode & économie** (section 6), et les échanges passés avec le client (pour caler son ton).

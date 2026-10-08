@@ -9,6 +9,8 @@ Agir comme analyste Voix du Client. Principe : les clients ont déjà décrit le
 
 ## Avant de commencer : rassembler les sources
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 1. Chercher le corpus : fichiers joints ou présents dans le dossier de travail, ou via le connecteur Notion (base de transcripts, page VoC existante). Ne rien aller chercher hors de ce que l'utilisateur désigne.
 2. Chercher **Ma voix** pour le ton des sorties marketing uniquement.
 3. Si aucun corpus n'est fourni, le demander (transcripts de vente/coaching, messages et mails clients, objections, questions récurrentes, avis, commentaires, onboarding). Plus la matière est brute et émotionnelle, mieux c'est.

@@ -9,6 +9,8 @@ description: Rédige un contenu prêt à publier (post LinkedIn, carrousel, vid�
 
 ## Avant de commencer : rassembler les sources
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 1. Lire **la ligne du calendrier** (statut ✍️ À écrire) : Pilier, Funnel, Angle, Hook, Format, Plateforme. Via connecteur Notion ou ligne collée. Si pas de ligne (demande directe), demander au minimum : sujet, plateforme, format, niveau de funnel.
 2. Lire **Ma voix** + le **VoC** (mots exacts des clients). Si Ma voix est introuvable, la demander avant d'écrire : c'est la priorité n°1.
 3. `charte-graphique.md` si le format est visuel.

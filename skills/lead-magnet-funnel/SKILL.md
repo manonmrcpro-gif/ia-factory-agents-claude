@@ -9,6 +9,8 @@ Construire un **funnel d'acquisition complet** : (1) le **lead magnet**, (2) la 
 
 ## Avant de commencer : rassembler les sources
 
+**Où trouver ses documents de référence** (ADN, méthode & économie ; Ma voix) : dans son Notion (page « Mes documents de référence » du Hub Freelance) ou dans son Google Drive (dossier « Mes documents de référence »), via le connecteur. Ses Règles IA, dans les instructions de son IA, indiquent lequel. Introuvables : les lui demander, ne jamais deviner.
+
 Chercher (fichiers ou Notion) : **Ma voix** · le **VoC accumulé** · le descriptif de **l'offre principale** · l'expertise et la méthodologie de l'utilisateur · `charte-graphique.md`. Demander le **persona**, l'**offre principale** et le **problème spécifique** visé si absents. Le VoC affine le tir mais n'est pas un prérequis pour démarrer.
 
 ## Phase 0 : faire accoucher le besoin (rien produire avant)
