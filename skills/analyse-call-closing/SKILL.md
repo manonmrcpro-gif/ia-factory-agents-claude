@@ -1,5 +1,5 @@
 ---
-name: closing-objections
+name: analyse-call-closing
 description: Intervient après un rendez-vous commercial (R1 ou R2) à partir du transcript : analyse le call pour faire progresser la personne qui l'a mené (points forts, axes d'amélioration avec formulations, point n°1 à travailler), traite les objections par des questions, construit le plan d'action commun (MAP) et rédige le mail de suivi (post-R1 qui verrouille le R2, post-R2 avec la propale), plus les relances. Utiliser quand l'utilisateur dit « analyse mon call », « débrief de mon R1 », « qu'est-ce que j'aurais pu mieux faire », « prépare le mail de suivi pour… », « comment je réponds à cette objection », « il m'a dit que c'est trop cher », « relance prospect », ou colle le transcript d'un appel de vente.
 ---
 

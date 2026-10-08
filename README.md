@@ -15,7 +15,7 @@ Plugin Claude (Cowork / Claude Code) qui regroupe les **12 agents de la Biblioth
 | Acquisition Marketing | `lead-magnet-funnel` | Funnel complet : lead magnet (quiz de préférence) + page de capture + séquence de 9 emails. |
 | Acquisition Marketing | `cas-clients` | Transforme un projet réussi en cas client Avant → Pont → Après (version site + post/carrousel). |
 | Acquisition commerciale | `sales-prep` | Fiche stratégique + guide de call avant chaque R1 (SPICED, P.A.S.P., qui décide). |
-| Acquisition commerciale | `closing-objections` | Après le RDV : analyse du call pour progresser, objections, plan d'action commun (MAP), mail de suivi et relances. |
+| Acquisition commerciale | `analyse-call-closing` | Après le RDV : analyse du call pour progresser, objections, plan d'action commun (MAP), mail de suivi et relances. |
 | Acquisition commerciale | `propale` | Proposition commerciale qui fait signer : diagnostic, coût de l'inaction, ROI par hypothèses, un seul next step. |
 | Delivery | `chef-de-projet` | Suivi de mission + récap client adapté au canal (email, Slack, espace client). |
 | Pilotage | `cadrage-offre-pricing` | Décompose le CA cible en offres, structure l'échelle d'offres, price à la valeur. |
@@ -23,7 +23,7 @@ Plugin Claude (Cowork / Claude Code) qui regroupe les **12 agents de la Biblioth
 ## Les chaînes
 
 - **Contenu** : `voc-voix-du-client` → `strategie-edito` → `redaction-contenu`
-- **Vente** : `lead-magnet-funnel` → `sales-prep` → `closing-objections` → `propale`
+- **Vente** : `lead-magnet-funnel` → `sales-prep` → `analyse-call-closing` → `propale`
 - **Delivery** : `transcript-next-actions` → `chef-de-projet` → `cas-clients`
 
 ## Docs de référence attendus

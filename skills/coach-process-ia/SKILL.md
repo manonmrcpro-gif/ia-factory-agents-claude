@@ -60,4 +60,4 @@ Détail des questions, grille de cartographie, calcul de ROI et exemple : `refer
 
 ## Chaînage
 
-En amont de tous les agents : le processus prioritaire dit lequel construire en premier. Si le Now est commercial : `sales-prep`, `closing-objections`, `lead-magnet-funnel`. Si c'est l'offre : `cadrage-offre-pricing`.
+En amont de tous les agents : le processus prioritaire dit lequel construire en premier. Si le Now est commercial : `sales-prep`, `analyse-call-closing`, `lead-magnet-funnel`. Si c'est l'offre : `cadrage-offre-pricing`.

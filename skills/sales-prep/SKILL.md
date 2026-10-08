@@ -59,4 +59,4 @@ Exemple et template : `references/exemple-et-template.md`.
 
 ## Chaînage
 
-Nourri par `voc-voix-du-client` (douleurs, objections) et le quiz de `lead-magnet-funnel`. En aval : `closing-objections` et `propale`.
+Nourri par `voc-voix-du-client` (douleurs, objections) et le quiz de `lead-magnet-funnel`. En aval : `analyse-call-closing` et `propale`.

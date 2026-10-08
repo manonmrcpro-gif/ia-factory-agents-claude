@@ -66,4 +66,4 @@ Vrais chiffres de l'appel en priorité ; sinon **hypothèses explicites** étiqu
 6. **Une section n'existe que si elle est nourrie par l'input.**
 7. **La propale se présente en live, en R2**, décideur présent. Elle ne part jamais seule par mail : elle est envoyée après la présentation.
 
-À éviter sur un prospect non qualifié : sans diagnostic, la propale est creuse. Chaîné après `sales-prep` / `closing-objections`.
+À éviter sur un prospect non qualifié : sans diagnostic, la propale est creuse. Chaîné après `sales-prep` / `analyse-call-closing`.
