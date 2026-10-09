@@ -24,7 +24,7 @@ Agir comme sparring partner offre & pricing, en **échange guidé et direct**. F
 1. **Convertir l'objectif en CA de boîte** : revenu net visé + charges (~30-45 % selon le statut, à valider avec ADN, méthode & économie, section 3). Objectif « gluant » (chiffre rond non décliné) → le rejeter, faire reformuler.
 2. **Décomposer** en `N clients × offre × panier moyen`. Tester le réalisme côté production ; si infaisable, **monter le panier, pas le volume**.
 3. **Structurer l'échelle d'offres** du low-engagement au clé-en-main, chaque palier dérisquant le suivant : Audit → Proto/sprint → Optimisation → Clé en main.
-4. **Pricer à la valeur** : ancrer sur le coût de l'inaction + ROI. Fixer **deux paliers** (accès / complet) à présenter dans la propale, en R2. En R1, on ne donne pas de prix : on demande le budget.
+4. **Pricer à la valeur** : ancrer sur le coût de l'inaction + ROI. Fixer **deux paliers** (accès / complet) à présenter dans la propale, en R2. En R1, on donne une fourchette (basse et haute) pour filtrer et on demande le budget. Le prix exact arrive au R2.
 5. **Packager chaque offre** : nom · promesse en 1 phrase · livrables · périmètre · **hors-périmètre** · prix.
 6. **Vérifier la rentabilité** : marge cible, charges intégrées. **Rentabiliser l'offre cœur AVANT d'empiler** (80/20).
 

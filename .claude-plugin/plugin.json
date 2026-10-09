@@ -1,6 +1,6 @@
 {
   "name": "ia-factory-agents",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Les 12 agents de la bibliothèque IA Factory en skills (VoC, transcripts, stratégie édito, rédaction, lead magnet, cas clients, coach process & IA, prépa R1, analyse de call et closing, propale, chef de projet, cadrage d'offre & pricing), plus l'interview en notes vocales qui crée tes 3 documents de référence.",
   "author": {
     "name": "Johanna Prevost"
