@@ -13,7 +13,19 @@ Agir comme assistant de suivi post-réunion, **premier maillon de toute la chaî
 
 1. Récupérer le transcript : texte collé, fichier, ou via connecteur (Notion, Fireflies…). Si seul un **ID de transcript** est fourni (cas webhook), aller chercher le texte complet via le connecteur avant de traiter.
 2. Chercher **Ma voix** pour le ton des synthèses.
-3. Identifier la structure de rangement : base Notion « Transcripts de réunion » + bases Prospects/Clients, Projets, Tâches (IDs, colonnes). Si l'utilisateur ne l'a pas décrite et qu'elle ne se déduit pas de la base, la demander une fois.
+3. Identifier la structure de rangement : base Notion « Transcripts de réunion » + bases Prospects/Clients, Projets, Tâches (IDs, colonnes). Des bases de données, pas des pages dans des pages. Si l'utilisateur ne l'a pas décrite et qu'elle ne se déduit pas de la base, la demander une fois (à la main uniquement).
+4. Lire ses préférences d'actions s'il les a données : quel niveau de détail, quelles actions il veut voir sortir. Une idée lancée en l'air ne devient pas une tâche.
+
+## En tâche planifiée
+
+C'est le mode normal : **toutes les heures ou chaque soir**, selon le nombre de rendez-vous.
+- Traiter **uniquement les nouveaux transcripts** : ceux dont la case **Traité** n'est pas cochée (ou dont le Transcript ID n'a pas encore de fiche). Cocher Traité à la fin de chaque transcript.
+- **Aucune question** : ce qui est incertain est marqué `[À VALIDER]` dans la fiche, et listé en fin de compte-rendu de la tâche.
+- Rien de nouveau : le dire en une ligne et s'arrêter.
+
+À la première utilisation, rappeler que l'agent est fait pour tourner en tâche planifiée, et donner le prompt prêt à coller, adapté à son outil de prise de notes et à sa structure, par exemple :
+
+> « Lance /transcript-next-actions en tâche planifiée : traite les nouveaux transcripts de [Fathom / Fireflies / ma base Notion X] non cochés Traité, range chaque fiche au bon endroit, sors mes next actions. Ne me pose pas de questions. »
 
 ## Étape 1 : identifier le type d'appel (bloquante)
 
@@ -42,20 +54,25 @@ Interne → projet/sujet d'orga · Formation → thématique · Prospect → opp
 
 Écrire uniquement ce qui **change**, là où ça doit aller. Pas de réécriture complète.
 
+## Étape 4 bis : garder les phrases marquantes (prospect et client)
+
+Pour les types 🎯 Prospect et 🤝 Client : 2 à 3 phrases **mot pour mot** de la personne (une douleur, une objection, un déclic). Jamais reformulées. C'est la matière de l'agent Voix du client.
+
 ## Étape 5 : extraire les next actions
 
 Séparer 🔹 **Moi** de 🔸 **l'Autre**. Chaque action : responsable + échéance (`[à caler]` si non dite) + camp de la balle. Si une base **Tâches** existe, créer une entrée par action, reliée à la fiche.
 
 ## Champs de la fiche transcript (Notion)
 
-Réunion (titre) · Lien transcript · Transcript ID · Participants (multi-select ou Person) · Durée (min) · Type (🧩/🎓/🎯/🤝) · Client / Deal (relation) · Sujets abordés · Synthèse (≤120 mots) · Next actions (🔹/🔸) · Résumé (2-3 lignes TL;DR). Tout en puces.
+Réunion (titre) · Lien transcript · Transcript ID · Participants (multi-select ou Person) · Durée (min) · Type (🧩/🎓/🎯/🤝) · Client / Deal (relation) · Sujets abordés · Synthèse (≤120 mots) · Phrases marquantes (prospect et client) · Next actions (🔹/🔸) · Résumé (2-3 lignes TL;DR) · Traité (case à cocher). Le transcript complet reste accessible (dans la fiche ou par le lien). Tout en puces.
 
 ## Format de sortie
 
 1. **Type d'appel** + **Rattachement** (fiche, `[À VALIDER]`, ou « créée »)
 2. **Synthèse** (5-8 puces, ≤120 mots)
 3. **MAJ de la fiche** (ce qui change)
-4. **Next actions** 🔹 Moi · 🔸 Autre
+4. **Phrases marquantes** (prospect et client)
+5. **Next actions** 🔹 Moi · 🔸 Autre
 
 Voir `references/exemple-et-template.md`.
 
@@ -66,7 +83,8 @@ Voir `references/exemple-et-template.md`.
 3. **Ma voix** : net, sans tics IA, sans tiret cadratin.
 4. **Synthèse bornée** : ≤120 mots, en puces.
 5. **Aucune échéance hallucinée.**
+6. **Phrases marquantes mot pour mot**, ou rien.
 
 ## Déclenchement type
 
-À chaque nouveau transcript ; en tâche planifiée quotidienne (ex. 19h) pour traiter en lot ; à la main ; avant un point projet/hebdo pour consolider.
+En tâche planifiée, toutes les heures ou chaque soir selon le nombre de rendez-vous ; à la main sur un transcript ; avant un point projet ou hebdo pour consolider. Les tâches planifiées se déclenchent à heure fixe, pas à la fin d'un appel.
