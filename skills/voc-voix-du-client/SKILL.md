@@ -64,7 +64,7 @@ L'analyse complète (8 catégories, voix du marché avec niveau de conscience, v
 
 ## Mettre en place la tâche hebdo
 
-À la première utilisation, dire que cet agent est fait pour tourner **une fois par semaine en tâche planifiée**, et à la demande entre deux. Donner le prompt prêt à coller dans la tâche, adapté à sa base de transcripts et à sa destination, par exemple :
+À la fin de la première utilisation, rappeler que cet agent est fait pour tourner **une fois par semaine en tâche planifiée**, et à la demande entre deux. **Proposer de créer la tâche maintenant** (jour et heure au choix, par défaut le lundi matin) et la créer sur un oui. Si une tâche Voix du client existe déjà, demander s'il faut la remplacer ou la garder, sans en créer une deuxième. Prompt de la tâche, adapté à sa base de transcripts et à sa destination :
 
 > « Lance /voc-voix-du-client en mode tâche hebdo : relis les transcripts prospects et clients de ma base [nom de la base] et leur historique, compare à ma synthèse Voix du client, et sors ma synthèse de la semaine [ici / dans la page X]. Ne me pose pas de questions. »
 

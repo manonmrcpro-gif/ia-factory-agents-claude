@@ -23,7 +23,7 @@ C'est le mode normal : **toutes les heures ou chaque soir**, selon le nombre de 
 - **Aucune question** : ce qui est incertain est marqué `[À VALIDER]` dans la fiche, et listé en fin de compte-rendu de la tâche.
 - Rien de nouveau : le dire en une ligne et s'arrêter.
 
-À la première utilisation, rappeler que l'agent est fait pour tourner en tâche planifiée, et donner le prompt prêt à coller, adapté à son outil de prise de notes et à sa structure, par exemple :
+À la fin de la première utilisation, rappeler que l'agent est fait pour tourner en tâche planifiée et **proposer de créer la tâche maintenant** (toutes les heures ou chaque soir, selon le nombre de rendez-vous), puis la créer sur un oui. Si une tâche Transcript existe déjà, ne pas en créer une deuxième. Prompt de la tâche, adapté à son outil de prise de notes et à sa structure :
 
 > « Lance /transcript-next-actions en tâche planifiée : traite les nouveaux transcripts de [Fathom / Fireflies / ma base Notion X] non cochés Traité, range chaque fiche au bon endroit, sors mes next actions. Ne me pose pas de questions. »
 
