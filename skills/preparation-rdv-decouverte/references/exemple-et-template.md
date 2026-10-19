@@ -1,4 +1,4 @@
-# Sales : exemple et template
+# Préparation RDV découverte : exemple et template
 
 ## Exemple (extrait cheat-sheet)
 

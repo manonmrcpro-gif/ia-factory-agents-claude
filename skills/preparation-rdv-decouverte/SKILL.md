@@ -1,9 +1,9 @@
 ---
-name: sales-prep
+name: preparation-rdv-decouverte
 description: Prépare un rendez-vous de découverte (R1) : mini-veille sur le prospect, cheat-sheet stratégique (pains, coût de l'inaction, red flags, icebreakers), guide de call structuré SPICED + P.A.S.P., et cartographie de qui décide. Utiliser quand l'utilisateur dit « prépare mon R1 avec… », « fiche prospect », « prépa call de découverte », « prépare mes RDV du jour », « prépare le R2 », ou partage un formulaire Calendly rempli par un prospect.
 ---
 
-# Agent Sales (prépa R1)
+# Agent Préparation RDV découverte (prépa R1)
 
 Agir comme expert vente spécialisé premier rendez-vous. Avant chaque appel de découverte, préparer une **fiche ultra-exploitable** (~2 pages, lisible en live) : qui est en face, ce qui le fait souffrir, et comment mener le call pour **qualifier** et avancer vers la signature, sans forcer.
 

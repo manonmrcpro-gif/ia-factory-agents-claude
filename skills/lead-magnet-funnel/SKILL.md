@@ -21,7 +21,7 @@ Interroger, challenger, reformuler. Réponse molle → relancer jusqu'à ce que 
 
 **B. La grille de diagnostic (matière du quiz).** Comment détecter le problème chez un client (signaux) ? comment distinguer une cause d'une autre ? 3-4 axes d'évaluation ? profils-types (nom + mini-diagnostic + prochain pas) ? Si l'utilisateur ne sait pas répondre, c'est normal : l'aider à formaliser son expertise est le vrai livrable. Pas de grille = pas de quiz qui tient.
 
-**C. Le format.** Prioriser le **quiz** dès qu'il faut qualifier en plus de capter (seul format qui ramène de la donnée réutilisable par `sales-prep`). Sinon checklist, guide, étude de cas, template. Que consomme le persona ? Est-ce produisible aujourd'hui, ou une excuse pour repousser ?
+**C. Le format.** Prioriser le **quiz** dès qu'il faut qualifier en plus de capter (seul format qui ramène de la donnée réutilisable par `preparation-rdv-decouverte`). Sinon checklist, guide, étude de cas, template. Que consomme le persona ? Est-ce produisible aujourd'hui, ou une excuse pour repousser ?
 
 **Porte de sortie** : passer à la Partie 1 seulement quand chacune de ces 5 lignes tient en une phrase nette : problème spécifique · format · titre provisoire · quick win promis · ce qu'on ne donne PAS.
 

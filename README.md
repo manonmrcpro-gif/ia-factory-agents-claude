@@ -14,7 +14,7 @@ Plugin Claude (Cowork / Claude Code) qui regroupe les **12 agents de la Biblioth
 | Acquisition Marketing | `redaction-contenu` | Écrit un contenu prêt à publier depuis une ligne du calendrier, dans Ta Voix, avec 3 hooks et 7 sweeps. |
 | Acquisition Marketing | `lead-magnet-funnel` | Funnel complet : lead magnet (quiz de préférence) + page de capture + séquence de 9 emails. |
 | Acquisition Marketing | `cas-clients` | Transforme un projet réussi en cas client Avant → Pont → Après (version site + post/carrousel). |
-| Acquisition commerciale | `sales-prep` | Fiche stratégique + guide de call avant chaque R1 (SPICED, P.A.S.P., qui décide). |
+| Acquisition commerciale | `preparation-rdv-decouverte` | Fiche stratégique + guide de call avant chaque R1 (SPICED, P.A.S.P., qui décide). |
 | Acquisition commerciale | `analyse-call-closing` | Après le RDV : analyse du call pour progresser, objections, plan d'action commun (MAP), mail de suivi et relances. |
 | Acquisition commerciale | `propale` | Proposition commerciale qui fait signer : diagnostic, coût de l'inaction, ROI par hypothèses, un seul next step. |
 | Delivery | `chef-de-projet` | Suivi de mission + récap client adapté au canal (email, Slack, espace client). |
@@ -23,7 +23,7 @@ Plugin Claude (Cowork / Claude Code) qui regroupe les **12 agents de la Biblioth
 ## Les chaînes
 
 - **Contenu** : `voc-voix-du-client` → `strategie-edito` → `redaction-contenu`
-- **Vente** : `lead-magnet-funnel` → `sales-prep` → `analyse-call-closing` → `propale`
+- **Vente** : `lead-magnet-funnel` → `preparation-rdv-decouverte` → `analyse-call-closing` → `propale`
 - **Delivery** : `transcript-next-actions` → `chef-de-projet` → `cas-clients`
 
 ## Docs de référence attendus
@@ -42,7 +42,7 @@ Ils sont créés par le skill `documents-de-reference` (interview en notes vocal
 Pas obligatoires, mais ils rendent les skills autonomes :
 - **Notion** : transcripts, fiches, calendrier, page VoC
 - **Gmail / Slack** : brouillons de mails de suivi et de récaps (jamais d'envoi automatique)
-- **Recherche web** : mini-veille prospect (`sales-prep`), benchmarks sourcés (`propale`)
+- **Recherche web** : mini-veille prospect (`preparation-rdv-decouverte`), benchmarks sourcés (`propale`)
 
 ## Installation
 
