@@ -43,7 +43,7 @@ La séquence part **automatiquement à l'inscription** (automatisation Brevo : �
 4. **Email 4 : une objection levée**, avec ce que coûte le fait de ne rien faire (coût de l'inaction).
 5. **Email 5 : l'offre**, et le **lien de prise de rendez-vous**.
 
-Le lead magnet règle le problème spécifique ; l'offre règle le problème large : dès l'email 2, montrer que le spécifique n'est que le début. Pas de forcing, rien qui parte dans une autre direction que le lead magnet. Gabarit par email : Objet (≤60 caractères, intriguant) → accroche perso (1 phrase) → un seul message → un seul CTA. Proposer un délai entre chaque email (par défaut : J0, J+2, J+4, J+7, J+10).
+Le lead magnet règle le problème spécifique ; l'offre règle le problème large : dès l'email 2, montrer que le spécifique n'est que le début. Pas de forcing, rien qui parte dans une autre direction que le lead magnet. Gabarit par email : Objet (≤60 caractères, intriguant) → accroche perso (1 phrase) → un seul message → un seul CTA. Proposer un délai entre chaque email (par défaut : J0, J+1, J+2, J+4, J+6 (rapprochés au début, jamais plus de 2 jours d'écart au départ)).
 
 ## Règles (non négociables)
 
