@@ -15,7 +15,7 @@ Plugin Claude (Cowork / Claude Code) qui regroupe les **12 agents de la Biblioth
 | Acquisition Marketing | `lead-magnet-funnel` | Agent Lead Magnet : lead magnet (quiz diagnostic en premier) + page de capture + 5 emails après l'inscription. |
 | Acquisition Marketing | `cas-clients` | Transforme un projet réussi en cas client Avant → Pont → Après (version site + post/carrousel). |
 | Acquisition commerciale | `preparation-rdv-decouverte` | Fiche stratégique + guide de call avant chaque R1 (SPICED, P.A.S.P., qui décide). |
-| Acquisition commerciale | `analyse-call-closing` | Après le RDV : analyse du call pour progresser, objections, plan d'action commun (MAP), mail de suivi et relances. |
+| Acquisition commerciale | `analyse-call-closing` | Après le RDV : analyse du call pour progresser, objections, plan d'action commun (MAP), mail de suivi et échange de décision calé (jamais de décision par mail). |
 | Acquisition commerciale | `propale` | Proposition commerciale qui fait signer : diagnostic, coût de l'inaction, ROI par hypothèses, un seul next step. |
 | Delivery | `chef-de-projet` | Suivi de mission + récap client adapté au canal (email, Slack, espace client). |
 | Pilotage | `cadrage-offre-pricing` | Décompose le CA cible en offres, structure l'échelle d'offres, price à la valeur. |
