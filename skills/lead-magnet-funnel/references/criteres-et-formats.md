@@ -22,9 +22,9 @@
 ## Zoom : construire un quiz
 
 1. **L'angle** : une question que le persona se pose vraiment sur lui-même (« es-tu prêt à automatiser ? »). Le résultat éclaire, jamais n'humilie.
-2. **5 à 8 questions max**, à choix multiples, chacune reliée à un axe de diagnostic (points ou profil).
+2. **8 à 10 questions**, à cocher (jamais de texte libre : rapide à répondre), chacune reliée à un axe de diagnostic (points ou profil). Au-delà, ça devient un interrogatoire.
 3. **3 à 4 résultats / profils** : nom + mini-diagnostic + prochain pas (qui ouvre vers l'offre).
-4. **Capture email AVANT d'afficher le résultat** (« où on t'envoie ton résultat ? »).
+4. **Teaser, puis capture email** : après la dernière question, « Ton diagnostic est prêt » avec les premières lignes du résultat et le reste flouté, puis le formulaire Brevo (« où on t'envoie ton résultat complet ? »). Tout afficher à l'écran = plus aucune raison de laisser son mail. Le résultat complet part dans l'email 1, tout de suite.
 5. **Les réponses nourrissent la qualification** : le profil remonte au CRM, l'agent Préparation RDV découverte sait à qui il a affaire.
 
 ## Zoom : le résultat du quiz, viser un vrai rapport de diagnostic
@@ -42,7 +42,7 @@ Un score seul ne marque personne. Le résultat qui fait dire « waouh, elle m'a 
 
 Ton : tutoiement, chiffres précis, lucide ET motivant. La personnalisation vient des réponses du quiz + des infos demandées (activité, CA, objectif, canaux).
 
-**Réalisme** : V1 = quiz + profils (Tally, Typeform…), en ligne vite. V2 = le rapport généré par IA à partir des réponses (formulaire → automatisation → modèle IA nourri de la grille de diagnostic → page web, PDF ou email). Ne pas bloquer la V1 pour la V2.
+**Réalisme** : V1 = la page du quiz codée par l'IA (un fichier HTML, hébergé sur Netlify) + le formulaire Brevo + un résultat par profil envoyé par l'email 1, en ligne vite. Le résultat reste digeste : le prospect doit en tirer de la valeur en moins de 15 minutes. V2 = le rapport généré par IA à partir des réponses (formulaire → automatisation → modèle IA nourri de la grille de diagnostic → page web, PDF ou email). Ne pas bloquer la V1 pour la V2.
 
 ## Les 5 niveaux de conscience
 

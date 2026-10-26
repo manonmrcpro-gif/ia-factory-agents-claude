@@ -17,7 +17,7 @@ Chercher (fichiers ou Notion) : **Ma voix** · le **VoC accumulé** · le descri
 
 Interroger, challenger, reformuler. Réponse molle → relancer jusqu'à ce que ce soit précis. Ne rien produire tant que la phase n'est pas passée.
 
-**A. Le problème spécifique.** Le lead magnet règle un problème **spécifique** ; l'offre règle le problème **large**. Questions : problème large de l'offre ? sous-problème précis que le persona se pose, avec SES mots ? quick win offrable sans livrer le « comment » complet ?
+**A. Le problème spécifique.** Le lead magnet règle un problème **spécifique** ; l'offre règle le problème **large**. Questions : problème large de l'offre ? sous-problème précis que le persona se pose, avec SES mots ? quick win offrable sans livrer le « comment » complet ? Remonter en amont : la question que le persona se pose en se levant le matin, partie de son ressenti, pas un sujet trop niche ni la méthode ou l'approche de l'utilisateur (personne ne télécharge une méthode : il veut qu'on règle une partie de son problème). Le lead magnet vise large et ne filtre pas : la qualification, c'est le calendrier et le rendez-vous de découverte.
 
 **B. La grille de diagnostic (matière du quiz).** Comment détecter le problème chez un client (signaux) ? comment distinguer une cause d'une autre ? 3-4 axes d'évaluation ? profils-types (nom + mini-diagnostic + prochain pas) ? Si l'utilisateur ne sait pas répondre, c'est normal : l'aider à formaliser son expertise est le vrai livrable. Pas de grille = pas de quiz qui tient.
 
@@ -27,11 +27,13 @@ Interroger, challenger, reformuler. Réponse molle → relancer jusqu'à ce que 
 
 ## Partie 1 : le lead magnet
 
-Respecter les **7 critères** (voir `references/criteres-et-formats.md`), en particulier : focus QUOI / POURQUOI / coût d'opportunité, **jamais le COMMENT complet** (c'est l'offre payante). Titre via un framework : *Comment [GAIN] sans [PAIN]* · *Comment [GAIN] même si [PAIN]* · *X piliers pour [GAIN] sans [PAIN]*. Pour un quiz, suivre le zoom quiz (5-8 questions, 3-4 profils, capture email AVANT le résultat, réponses qui remontent au CRM). Le résultat vise le niveau **rapport de diagnostic personnalisé** (scores par axe, facteur limitant, manque à gagner, priorités, plan 90 jours, CTA) : voir le zoom dans `references/criteres-et-formats.md`.
+Respecter les **7 critères** (voir `references/criteres-et-formats.md`), en particulier : focus QUOI / POURQUOI / coût d'opportunité, **jamais le COMMENT complet** (c'est l'offre payante). Titre via un framework : *Comment [GAIN] sans [PAIN]* · *Comment [GAIN] même si [PAIN]* · *X piliers pour [GAIN] sans [PAIN]*. Pour un quiz, suivre le zoom quiz (8 à 10 questions à cocher, 3-4 profils, aperçu du résultat flouté puis capture email, résultat complet envoyé par l'email 1). Le résultat vise le niveau **rapport de diagnostic personnalisé** (scores par axe, facteur limitant, manque à gagner, priorités, plan 90 jours, CTA) : voir le zoom dans `references/criteres-et-formats.md`.
 
 ## Partie 2 : la page de capture
 
-Une seule action : laisser son email. Headline (promesse) → sous-titre (bénéfice) → réassurance (gratuit, rapide, sans spam) → 3 étapes (tu reçois → tu appliques → tu obtiens) → bénéfices (puces) → preuve (verbatim, chiffre, logos) → formulaire d'inscription répété (haut + bas). Pas de menu, pas de lien sortant. Livrable : le texte de la page, et sur demande la page en un seul fichier HTML, avec un emplacement prévu pour coller le code du formulaire Brevo (ne jamais inventer ce code).
+**Pour un quiz** (cas par défaut), la page EST le quiz : texte d'accueil court (promesse, bénéfice, réassurance : gratuit, quelques minutes) → les questions, une par écran, réponses à cocher → écran « Ton diagnostic est prêt » avec les premières lignes du résultat et le reste flouté → le formulaire Brevo juste en dessous (« pour recevoir ton résultat complet ») → message de confirmation. Pas de menu, pas de lien sortant. L'utilisateur fait coder la page par son IA en un seul fichier HTML, avec un emplacement pour coller le code du formulaire Brevo (ne jamais inventer ce code), et l'héberge sur Netlify.
+
+**Pour un autre format** (checklist, guide…) : une seule action, laisser son email. Headline (promesse) → sous-titre (bénéfice) → réassurance (gratuit, rapide, sans spam) → 3 étapes (tu reçois → tu appliques → tu obtiens) → bénéfices (puces) → preuve (verbatim, chiffre, logos) → formulaire d'inscription répété (haut + bas). Pas de menu, pas de lien sortant. Livrable : le texte de la page, et sur demande la page en un seul fichier HTML, avec un emplacement prévu pour coller le code du formulaire Brevo (ne jamais inventer ce code).
 
 ## Partie 3 : les 5 emails après l'inscription
 
@@ -43,7 +45,7 @@ La séquence part **automatiquement à l'inscription** (automatisation Brevo : �
 4. **Email 4 : une objection levée**, avec ce que coûte le fait de ne rien faire (coût de l'inaction).
 5. **Email 5 : l'offre**, et le **lien de prise de rendez-vous**.
 
-Le lead magnet règle le problème spécifique ; l'offre règle le problème large : dès l'email 2, montrer que le spécifique n'est que le début. Pas de forcing, rien qui parte dans une autre direction que le lead magnet. Gabarit par email : Objet (≤60 caractères, intriguant) → accroche perso (1 phrase) → un seul message → un seul CTA. Proposer un délai entre chaque email (par défaut : J0, J+1, J+2, J+4, J+6 (rapprochés au début, jamais plus de 2 jours d'écart au départ)).
+Le lead magnet règle le problème spécifique ; l'offre règle le problème large : dès l'email 2, montrer que le spécifique n'est que le début. Pas de forcing, rien qui parte dans une autre direction que le lead magnet. Gabarit par email : Objet (≤60 caractères ; explicite pour l'email 1, ex. « Score 16/30 : ton rapport personnalisé est prêt » ; intriguant pour les suivants) → accroche perso (1 phrase) → un seul message → un seul CTA. Proposer un délai entre chaque email (par défaut : J0, J+1, J+2, J+4, J+6 (rapprochés au début, jamais plus de 2 jours d'écart au départ)).
 
 ## Règles (non négociables)
 
@@ -52,5 +54,7 @@ Le lead magnet règle le problème spécifique ; l'offre règle le problème lar
 3. **Le lead magnet ne donne jamais la solution complète.**
 4. **Coût de l'inaction + Avant/Après** dans la page et la séquence.
 5. **Rien en dur** : persona, offre, problème = variables.
+
+**Si Brevo est connecté** à l'IA de l'utilisateur (connecteur Brevo dans Claude, plugin Brevo dans ChatGPT), proposer d'écrire les 5 emails directement dans Brevo, en **templates** (brouillons). Le connecteur ne peut ni envoyer ni programmer : la liste, le formulaire et l'automatisation se créent à la main dans Brevo. Pas connecté : livrer les emails dans la conversation, prêts à coller.
 
 Exemple, template et note technique d'envoi : `references/exemple-et-template.md`.
