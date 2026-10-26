@@ -1,6 +1,6 @@
 # Lead magnet : critères, formats et zoom quiz
 
-## Les 7 critères (un bon aimant les respecte TOUS)
+## Les 7 critères (un bon lead magnet les respecte TOUS)
 
 1. **Promesse claire** : résout UN problème précis et identifiable du persona.
 2. **Focus QUOI / POURQUOI / coût d'opportunité**, PAS le COMMENT (le « comment » détaillé = l'offre payante). *Le critère que tout le monde rate.*
@@ -12,7 +12,7 @@
 
 ## Formats
 
-- **Quiz / test interactif** : format star. Résultat personnalisé (score, profil, diagnostic). Qualifie en captant, taux de complétion élevé.
+- **Quiz diagnostic** : le format recommandé par défaut, c'est ce qui marche le mieux. Résultat personnalisé (score, profil, diagnostic). Qualifie en captant, taux de complétion élevé.
 - **Checklist (PDF)** : courte, actionnable, un quick win.
 - **Guide / mini-ebook (PDF)** : un sous-problème traité de bout en bout (sans le « comment » complet).
 - **Étude de cas** : un Avant/Après chiffré.
@@ -46,4 +46,4 @@ Ton : tutoiement, chiffres précis, lucide ET motivant. La personnalisation vien
 
 ## Les 5 niveaux de conscience
 
-1. Inconscient du problème · 2. Conscient du problème · 3. Conscient de la solution (← présenter le lead magnet ici) · 4. Conscient du produit · 5. Très conscient.
+1. Inconscient du problème · 2. Conscient du problème · 3. Conscient de la solution (← là où se trouve la personne qui vient de s'inscrire) · 4. Conscient du produit · 5. Très conscient. Les 5 emails l'emmènent du niveau 3 au niveau 5.
