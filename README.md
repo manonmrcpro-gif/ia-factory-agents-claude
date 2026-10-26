@@ -12,7 +12,7 @@ Plugin Claude (Cowork / Claude Code) qui regroupe les **12 agents de la Biblioth
 | Pilotage | `coach-process-ia` | Diagnostic de tes processus avant tout projet IA : cartographie, coût de l'inaction, sweet spot IA, Now / Next / Later avec ROI. |
 | Acquisition Marketing | `strategie-edito` | Entretien de stratégie, puis idées scorées et calendrier de contenu rempli (sujet, pilier, funnel, angle, 3 hooks, format). |
 | Acquisition Marketing | `redaction-contenu` | Écrit un contenu prêt à publier depuis une ligne du calendrier, dans Ta Voix, avec 3 hooks et 7 sweeps. |
-| Acquisition Marketing | `lead-magnet-funnel` | Agent Lead Magnet : lead magnet (quiz diagnostic de préférence) + page de capture + 5 emails après l'inscription. |
+| Acquisition Marketing | `lead-magnet-funnel` | Agent Lead Magnet : lead magnet (quiz diagnostic en premier) + page de capture + 5 emails après l'inscription. |
 | Acquisition Marketing | `cas-clients` | Transforme un projet réussi en cas client Avant → Pont → Après (version site + post/carrousel). |
 | Acquisition commerciale | `preparation-rdv-decouverte` | Fiche stratégique + guide de call avant chaque R1 (SPICED, P.A.S.P., qui décide). |
 | Acquisition commerciale | `analyse-call-closing` | Après le RDV : analyse du call pour progresser, objections, plan d'action commun (MAP), mail de suivi et relances. |

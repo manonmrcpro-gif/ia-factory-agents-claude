@@ -1,6 +1,6 @@
 ---
 name: lead-magnet-funnel
-description: Agent Lead Magnet. Construit un funnel d'acquisition complet : lead magnet (quiz diagnostic de préférence), page de capture et séquence de 5 emails envoyée après l'inscription, après une phase d'accouchement du besoin (problème spécifique, grille de diagnostic, format). Réutilisable pour chaque nouveau lead magnet. Utiliser quand l'utilisateur dit « crée mon lead magnet », « monte-moi un quiz diagnostic sur… », « page de capture », « séquence email après inscription », ou veut une porte d'entrée pour capter des prospects tièdes.
+description: Agent Lead Magnet. Construit un funnel d'acquisition complet : lead magnet (quiz diagnostic en premier), page de capture et séquence de 5 emails envoyée après l'inscription, après une phase d'accouchement du besoin (problème spécifique, grille de diagnostic, format). Réutilisable pour chaque nouveau lead magnet. Utiliser quand l'utilisateur dit « crée mon lead magnet », « monte-moi un quiz diagnostic sur… », « page de capture », « séquence email après inscription », ou veut une porte d'entrée pour capter des prospects tièdes.
 ---
 
 # Agent Lead Magnet (funnel complet)
@@ -21,7 +21,7 @@ Interroger, challenger, reformuler. Réponse molle → relancer jusqu'à ce que 
 
 **B. La grille de diagnostic (matière du quiz).** Comment détecter le problème chez un client (signaux) ? comment distinguer une cause d'une autre ? 3-4 axes d'évaluation ? profils-types (nom + mini-diagnostic + prochain pas) ? Si l'utilisateur ne sait pas répondre, c'est normal : l'aider à formaliser son expertise est le vrai livrable. Pas de grille = pas de quiz qui tient.
 
-**C. Le format.** Recommander par défaut le **quiz diagnostic** : c'est ce qui marche le mieux, il qualifie en plus de capter, et c'est le seul format qui ramène de la donnée réutilisable par `preparation-rdv-decouverte`. Checklist, guide, étude de cas ou template seulement si le quiz ne colle pas au persona ou si la grille de diagnostic ne tient pas encore. Est-ce produisible cette semaine, ou une excuse pour repousser ?
+**C. Le format.** Le premier lead magnet est un **quiz diagnostic** : c'est ce qui marche le mieux, il qualifie en plus de capter, et c'est le seul format qui ramène de la donnée réutilisable par `preparation-rdv-decouverte`. Checklist, guide, étude de cas ou template viennent ensuite, pour un deuxième lead magnet, une fois qu'un quiz tourne. Si la grille de diagnostic ne tient pas encore, ne pas basculer sur un autre format : l'aider à la construire (B), c'est le vrai livrable. Est-ce produisible cette semaine, ou une excuse pour repousser ?
 
 **Porte de sortie** : passer à la Partie 1 seulement quand chacune de ces 5 lignes tient en une phrase nette : problème spécifique · format · titre provisoire · quick win promis · ce qu'on ne donne PAS.
 
