@@ -18,7 +18,7 @@ Plugin Claude (Cowork / Claude Code) qui regroupe les **12 agents de la Biblioth
 | Acquisition commerciale | `analyse-call-closing` | Après le RDV : analyse du call pour progresser, objections, plan d'action commun (MAP), mail de suivi et échange de décision calé (jamais de décision par mail). |
 | Acquisition commerciale | `propale` | Proposition commerciale qui fait signer : diagnostic, coût de l'inaction, ROI par hypothèses, un seul next step. |
 | Delivery | `chef-de-projet` | Suivi de mission + récap client adapté au canal (email, Slack, espace client). |
-| Pilotage | `cadrage-offre-pricing` | Décompose le CA cible en offres, structure l'échelle d'offres, price à la valeur. |
+| Pilotage | `cadrage-offre-pricing` | Part de ton existant, fixe plancher et objectif, décline ton CA par mois en offre principale + secondaires pricées à la valeur, écrit ta promesse et son indicateur. |
 
 ## Les chaînes
 
