@@ -54,7 +54,7 @@ But : voir ce qui se dit et ce qui marche sur son marché, pour s'en inspirer sa
 5. **Ce que la cible cherche** : questions posées en commentaire chez les concurrents, recherches Google sur son sujet, questions qui reviennent dans les groupes ou forums de sa cible.
 6. **Sortie** : un tableau des 5 à 10 posts qui surperforment (compte, sujet, angle, format, mécanique du hook, score) et **2 à 3 constats** sur ce qui revient. Puis **le trou à prendre** : un angle que personne n'occupe sur son marché, s'il y en a un. Aucun chiffre inventé : seulement ce qui a été relevé.
 
-Ranger la veille dans une base « Veille » de son Notion (Compte, Lien du post, Sujet, Angle, Format, Interactions, Moyenne du compte, Score, Date).
+Ranger la veille dans la base « Veille » du Hub Freelance (Post, Compte, Abonnés du compte, Plateforme, Marché, Lien du post, Sujet, Angle, Format, Mécanique du hook, Interactions, Moyenne du compte, Score, Date de publication, Statut ; à créer si son hub n'en a pas).
 
 ## Étape 3 : idées et plan du mois
 
@@ -76,7 +76,7 @@ Ranger la veille dans une base « Veille » de son Notion (Compte, Lien du post,
    - **Chaque semaine** contient au moins un TOFU et au moins un BOFU.
    - **Sources** : sur le mois, aucune source ne dépasse la moitié des posts ; chaque semaine a au moins deux sources différentes.
    - **Styles** : au moins 1 récit pour 3 posts dans la semaine, 2 récits dès 5 posts. Jamais deux posts du même style à la suite.
-   - **Styles possibles** : Récit · Opinion tranchée · Pédagogie (méthode, étapes) · Cas client · Coulisses · Réaction (actu, chiffre, post d'un autre).
+   - **Styles possibles** (colonne `Angle / Type`) : Storytelling / Retour XP (le récit) · Opinion tranchée · Pédagogie / Conseil · Cas client / Preuve · Coulisses / Perso · Actu / Annonce (réaction à une actu, un chiffre, un post).
    - **Lead magnet** : au moins un post BOFU le diffuse dans le mois (mécanique « commente [mot] et je te l'envoie »), et on y revient au moins une fois de plus.
    - **Temps fort** : les posts BOFU se rapprochent de la date (lancement, ouverture des places).
 
@@ -104,11 +104,11 @@ Pour chaque post, remplir **tous** les champs :
 
 Les semaines 1 et 2 sont remplies en entier. Les semaines 3 et 4 aussi, mais l'agent prévient qu'elles seront ajustées après le premier point du tableau de bord.
 
-**Où ranger** : dans la base « Calendrier de contenu » de son Notion (connecteur). Si elle n'existe pas, la créer avec ces colonnes : Titre, Date, Canal, Format, Étape, Source, Style, Objectif, Matière d'origine, Hook principal, Hooks alternatifs, Squelette, Appel à l'action, Statut (💡 Idée · ✍️ À écrire · ✅ Prêt · 📅 Programmé · 🚀 Publié), Lien du post, Impressions, Réactions, Commentaires, Engagement (formule : (Réactions + Commentaires) ÷ Impressions). Ajouter une vue calendrier et une vue par étape (TOFU, MOFU, BOFU). Sans connecteur : présenter le calendrier prêt à coller, en deux fois (semaines 1 et 2, puis 3 et 4) pour que la réponse ne soit pas coupée.
+**Où ranger** : dans la base « Calendrier de contenu » du Hub Freelance (connecteur Notion). Correspondance des champs : Sujet → `Sujet`, Date → `Date publi`, Canal → `Plateforme`, Étape → `Funnel`, Style → `Angle / Type`, Hook principal → `Hook`, et `Source`, `Objectif`, `Matière d'origine`, `Hooks alternatifs`, `Squelette`, `Appel à l'action`, `Format`, `Statut`, `Lien du post`, `Impressions`, `Réactions`, `Commentaires`, `Engagement`. Si son hub a été dupliqué avant ces colonnes, ajouter celles qui manquent sans toucher aux existantes ; si la base n'existe pas, la créer avec ces colonnes, une vue calendrier et une vue par étape. Sans connecteur : présenter le calendrier prêt à coller, en deux fois (semaines 1 et 2, puis 3 et 4) pour que la réponse ne soit pas coupée.
 
 ## Étape 5 : le tableau de bord
 
-Créer (ou mettre à jour) la base « Tableau de bord contenu » dans son Notion, **une ligne par semaine** :
+Créer (ou mettre à jour) la base « Tableau de bord contenu » du Hub Freelance (à créer avec ces colonnes si son hub n'en a pas), **une ligne par semaine** :
 
 | Colonne | D'où vient le chiffre |
 |---|---|
