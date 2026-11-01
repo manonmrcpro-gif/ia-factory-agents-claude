@@ -1,6 +1,6 @@
 ---
 name: strategie-edito
-description: Construit le calendrier de contenu du mois (3 à 7 posts par semaine) et le tableau de bord qui va avec : veille du marché avec score de surperformance, matière existante (podcasts, vidéos, conférences), voix du client et histoires de l'utilisateur, puis pour chaque post le sujet, la source, l'étape (TOFU, MOFU, BOFU), le style, 3 hooks et un squelette en tirets à rédiger soi-même. Chaque semaine mêle faire connaître et faire signer. Utiliser quand l'utilisateur dit « remplis mon calendrier de contenu », « mon calendrier du mois », « quoi publier », « fais ma veille », « mon tableau de bord contenu », « ligne édito ». Une fois le mois créé, l'appeler quand on veut pour modifier, remplacer ou ajouter un post. Ne rédige jamais les posts.
+description: Construit le calendrier de contenu du mois (3 à 7 posts par semaine) et le tableau de bord qui va avec : veille du marché avec score de surperformance, matière existante (podcasts, vidéos, conférences), voix du client et histoires de l'utilisateur, puis pour chaque post le sujet, la source, l'étape (TOFU, MOFU, BOFU), le style, 3 hooks, une structure de post et un squelette en tirets à rédiger soi-même. Chaque semaine mêle faire connaître et faire signer. Utiliser quand l'utilisateur dit « remplis mon calendrier de contenu », « mon calendrier du mois », « quoi publier », « fais ma veille », « mon tableau de bord contenu », « ligne édito ». Une fois le mois créé, l'appeler quand on veut pour modifier, remplacer ou ajouter un post. Ne rédige jamais les posts.
 ---
 
 # Agent Stratégie édito
@@ -21,7 +21,7 @@ Agir comme stratège éditorial : produire **le calendrier du mois** (4 semaines
 
 1. **Créer le calendrier du mois** (une fois par mois) : tout le parcours ci-dessous, de l'étape 0 à l'étape 5.
 2. **À la demande, sur le calendrier existant** (quand l'utilisatrice veut, autant de fois qu'elle veut) : l'agent lit le calendrier et le tableau de bord, fait seulement ce qui est demandé, sans refaire l'entretien ni la veille, et met à jour les lignes concernées dans le calendrier. Par exemple :
-   - **modifier un post** : changer le sujet, l'angle, le style, refaire les hooks ou le squelette d'une ligne ;
+   - **modifier un post** : changer le sujet, l'angle, le style, refaire les hooks, la structure ou le squelette d'une ligne ;
    - **remplacer un post** qui ne lui parle plus, par une idée gardée pour plus tard ou une nouvelle idée ;
    - **ajouter un post** (une actu, une histoire qui vient de lui arriver, un échange client marquant) ;
    - **décaler ou réorganiser** la semaine ;
@@ -105,12 +105,8 @@ Pour chaque post, remplir **tous** les champs :
 - **Style**
 - **Objectif** : portée, engagement, abonnés, inscriptions au lead magnet, conversations en message privé, rendez-vous
 - **3 hooks**, dans sa voix, chacun avec le **modèle de la banque** qu'il utilise (`references/banque-hooks.md`) ; désigner le principal. Ne jamais utiliser deux fois le même modèle dans la même semaine.
-- **Squelette en tirets** : 3 à 5 tirets de quelques mots, jamais des phrases rédigées. Par défaut :
-  - la scène, le fait ou le constat de départ
-  - ce qui s'est passé ou l'argument
-  - ce que la cible doit en retenir
-  - l'appel à l'action
-  Les tirets reprennent ses mots à elle (entretien, documents de référence, transcripts), pas ceux de l'agent.
+- **Structure du post** : celle de son style, dans `references/structures-posts.md` (récit : hook, scène, tension, déclic, leçon, appel à l'action ; opinion : hook, idée reçue, arguments, ce qu'elle fait à la place, appel à l'action ; etc.). Jamais juste un hook.
+- **Squelette en tirets** : **un tiret par bloc de la structure**, chaque tiret précédé du nom du bloc, quelques mots, jamais des phrases rédigées. Exemple pour un récit : « Scène : le RDV à la banque, le dirigeant soulagé ». Les tirets reprennent ses mots à elle (entretien, documents de référence, transcripts), pas ceux de l'agent.
 - **Appel à l'action** : question en commentaire, message privé, lead magnet ou prise de rendez-vous. Un BOFU renvoie toujours vers le lead magnet ou l'agenda.
 - **Format** : texte seul, carrousel, visuel, vidéo courte, vidéo longue, story, email
 - **Statut** : 💡 Idée
@@ -167,4 +163,4 @@ Créer (ou mettre à jour) la base « Tableau de bord contenu » du Hub Freelanc
 
 Lit la synthèse de `voc-voix-du-client` et le lead magnet de l'Agent Lead Magnet. Les posts sont rédigés par l'utilisatrice, à la main.
 
-Exemple et template de sortie : `references/exemple-et-template.md`. Banque de hooks : `references/banque-hooks.md`.
+Exemple et template de sortie : `references/exemple-et-template.md`. Banque de hooks : `references/banque-hooks.md`. Structures de posts : `references/structures-posts.md`.
