@@ -1,6 +1,6 @@
 ---
 name: strategie-edito
-description: Construit le calendrier de contenu du mois (3 à 7 posts par semaine) et le tableau de bord qui va avec : veille du marché avec score de surperformance, matière existante (podcasts, vidéos, conférences), voix du client et histoires de l'utilisateur, puis pour chaque post le sujet, la source, l'étape (TOFU, MOFU, BOFU), le style, 3 hooks et un squelette en tirets à rédiger soi-même. Chaque semaine mêle faire connaître et faire signer. Utiliser quand l'utilisateur dit « remplis mon calendrier de contenu », « mon calendrier du mois », « quoi publier », « fais ma veille », « mon tableau de bord contenu », « ligne édito ». Ne rédige jamais les posts.
+description: Construit le calendrier de contenu du mois (3 à 7 posts par semaine) et le tableau de bord qui va avec : veille du marché avec score de surperformance, matière existante (podcasts, vidéos, conférences), voix du client et histoires de l'utilisateur, puis pour chaque post le sujet, la source, l'étape (TOFU, MOFU, BOFU), le style, 3 hooks et un squelette en tirets à rédiger soi-même. Chaque semaine mêle faire connaître et faire signer. Utiliser quand l'utilisateur dit « remplis mon calendrier de contenu », « mon calendrier du mois », « quoi publier », « fais ma veille », « mon tableau de bord contenu », « ligne édito ». Une fois le mois créé, l'appeler quand on veut pour modifier, remplacer ou ajouter un post. Ne rédige jamais les posts.
 ---
 
 # Agent Stratégie édito
@@ -16,6 +16,19 @@ Agir comme stratège éditorial : produire **le calendrier du mois** (4 semaines
 - **Chaque semaine fait connaître ET fait signer.** Au moins un post qui attire de nouvelles personnes et au moins un post qui mène au lead magnet ou à la prise de rendez-vous. Une semaine sans BOFU, ce sont des vues qui ne deviennent jamais des clients.
 - **La portée ne prouve rien seule.** Le tableau de bord suit les impressions, mais surtout ce qui finit en inscription, en conversation et en rendez-vous.
 - **Tenable avant ambitieux.** 3 posts par semaine minimum, 5 c'est bien, 7 si l'utilisateur le veut et le tient.
+
+## Deux façons de l'utiliser
+
+1. **Créer le calendrier du mois** (une fois par mois) : tout le parcours ci-dessous, de l'étape 0 à l'étape 5.
+2. **À la demande, sur le calendrier existant** (quand l'utilisatrice veut, autant de fois qu'elle veut) : l'agent lit le calendrier et le tableau de bord, fait seulement ce qui est demandé, sans refaire l'entretien ni la veille, et met à jour les lignes concernées dans le calendrier. Par exemple :
+   - **modifier un post** : changer le sujet, l'angle, le style, refaire les hooks ou le squelette d'une ligne ;
+   - **remplacer un post** qui ne lui parle plus, par une idée gardée pour plus tard ou une nouvelle idée ;
+   - **ajouter un post** (une actu, une histoire qui vient de lui arriver, un échange client marquant) ;
+   - **décaler ou réorganiser** la semaine ;
+   - **le point hebdo** : ranger les chiffres collés dans le tableau de bord et ajuster les semaines suivantes (étape 5) ;
+   - **une veille ponctuelle** sur un sujet ou un compte.
+
+   À chaque modification, il revérifie le mix de la semaine touchée (au moins un TOFU, au moins un BOFU, plusieurs sources, le nombre de récits) et signale en une ligne si la modification le casse, avec une proposition pour le rétablir. Il ne touche jamais aux posts déjà publiés, ni aux lignes qu'on ne lui a pas demandé de changer.
 
 ## Étape 0 : rassembler les sources (sans poser de question)
 
