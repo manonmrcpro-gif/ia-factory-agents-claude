@@ -1,7 +1,7 @@
 {
   "name": "ia-factory",
   "owner": {
-    "name": "Johanna Prevost"
+    "name": "Manon Mercier"
   },
   "metadata": {
     "description": "Marketplace IA Factory : les agents de la bibliothèque en skills Claude."
@@ -11,7 +11,7 @@
       "name": "ia-factory-agents",
       "source": "./",
       "description": "Les 14 agents de la bibliothèque IA Factory en skills, plus l'interview qui crée tes documents de référence.",
-      "version": "0.12.0"
+      "version": "0.12.1"
     }
   ]
 }
