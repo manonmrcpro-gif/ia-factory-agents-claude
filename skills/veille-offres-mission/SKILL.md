@@ -68,6 +68,7 @@ Pour chaque offre trouvée :
 
 ## Étape 4 : la tâche planifiée et le bilan
 
+- **En tâche planifiée, LinkedIn passe par Apify et tourne seul.** Malt et Welcome to the Jungle passent par son navigateur : ils ne sont lus que si son ordinateur est allumé avec Chrome ouvert ; sinon, la tâche le note en une ligne et elle les lance d'une phrase quand elle veut.
 - **Proposer de créer la tâche planifiée** à la fin du premier test : tous les jours ouvrés le matin par défaut (ou tous les 2 jours si le crédit Apify est juste), la créer sur un oui. Si une tâche Veille offres de mission existe déjà, demander s'il faut la remplacer, sans en créer une deuxième. Prompt de la tâche :
   > « Lance /veille-offres-mission en mode tâche planifiée : cherche les nouvelles offres de mission avec mes mots-clés sur LinkedIn, Malt et Welcome to the Jungle, range-les dans ma base Offres de mission avec la correspondance et une piste d'angle, et dis-moi en 3 lignes celles à traiter aujourd'hui. Ne me pose pas de questions. »
 - **Le bilan de la semaine** (le lundi, ou à la demande) : combien d'offres, combien de 🟢, combien de candidatures, ce que ça a donné ; les mots-clés qui ramènent les bonnes offres (à garder) et ceux qui ne ramènent que du bruit (à changer). Une proposition d'ajustement, pas plus.

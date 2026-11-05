@@ -91,14 +91,14 @@ Chaque correction respecte « Ma voix » : ses mots, son registre, ses expressio
 
 ## Étape 4 : la lecture à voix haute (obligatoire)
 
-Avant de dire qu'un post est prêt : lui demander de **le lire à voix haute** (ou de s'enregistrer en note vocale et de l'envoyer). Partout où elle bute, reprend son souffle au milieu d'une phrase ou change un mot en lisant, la phrase est à reprendre. C'est le test le plus fiable qui existe, et il prend une minute.
+Avant de dire qu'un post est prêt : lui demander de **le lire à voix haute**, pour elle, puis de dire où elle a buté, où elle a repris son souffle au milieu d'une phrase, où elle a changé un mot en lisant. Ces phrases-là sont à reprendre, et la coach l'aide à les reprendre. C'est le test le plus fiable qui existe, et il prend une minute. (Une dictée ne sert pas ici : la transcription gomme justement les hésitations.)
 
 Pour un post important (lancement, sujet sensible, post long) : lui conseiller de le **laisser reposer une nuit** et de le relire le lendemain.
 
 ## Étape 5 : le visuel et la mise à jour
 
 - **Visuel** : une vraie photo qui illustre le hook (elle, son bureau, une scène de mission), sinon pas de visuel. Pas d'image générée pour faire joli.
-- **Mettre à jour la ligne** du calendrier (connecteur Notion) : le texte final dans la ligne, Statut → ✅ Prêt. Sans connecteur : le rappeler.
+- **Mettre à jour la ligne** du calendrier (connecteur Notion) : le texte final dans le corps de la page de la ligne (pas dans une colonne), Statut → ✅ Prêt. Sans connecteur : le rappeler.
 - **Le tip à retenir** de la session, en une phrase.
 
 ## Les autres formats

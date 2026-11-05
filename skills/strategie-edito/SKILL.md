@@ -94,7 +94,7 @@ But : voir ce qui marche sur son marché, pour s'en inspirer sans copier.
 6. **Ce que la cible cherche** : questions posées en commentaire chez les comptes suivis, recherches sur son sujet, questions qui reviennent dans les groupes de sa cible.
 7. **Sortie** : un tableau des 5 à 10 posts qui surperforment (compte, sujet, angle, format, mécanique du hook, score) et des 2 ou 3 flops, puis **2 à 3 constats** et **le trou à prendre** : un angle que personne n'occupe sur son marché, s'il y en a un. Aucun chiffre inventé.
 
-Ranger la veille dans la base « Veille » du Hub Freelance (Post, Compte, Abonnés du compte, Plateforme, Marché, Lien du post, Sujet, Angle, Format, Mécanique du hook, Interactions, Médiane du compte, Score, Date de publication, Statut ; à créer si son hub n'en a pas, ajouter les colonnes qui manquent sans toucher aux autres).
+Ranger la veille dans la base « Veille » du Hub Freelance (Post, Compte, Abonnés du compte, Plateforme, Marché, Lien du post, Sujet, Angle, Format, Mécanique du hook, Interactions, Médiane du compte, Score, Date de publication, Statut (Nouveau, Idée notée, Flop à éviter, Écarté) ; à créer si son hub n'en a pas, ajouter les colonnes qui manquent sans toucher aux autres ; une ancienne colonne « Moyenne du compte » se renomme en « Médiane du compte »).
 
 ## Étape 4 : la stratégie du mois (présentée avant de remplir)
 
@@ -131,12 +131,12 @@ Pour chaque post, remplir **tous** les champs :
 - **Matière d'origine** si le post vient d'un podcast, d'une conférence, d'une vidéo, d'un ancien post ou d'un transcript
 - **Étape** : 🟢 TOFU · 🟡 MOFU · 🔴 BOFU, et pour un post large, pourquoi il est large
 - **Style**
-- **Objectif** : portée, abonnés, inscriptions au lead magnet, conversations en message privé, rendez-vous
+- **Objectif** (options de la colonne) : Portée · Engagement · Abonnés · Inscriptions lead magnet · Conversations en DM · Rendez-vous
 - **3 hooks**, dans sa voix, chacun avec le **modèle de la banque** qu'il utilise (`references/banque-hooks.md`) ; désigner le principal. Une phrase exacte d'un client passe avant un modèle. Jamais le même modèle deux fois dans la même semaine.
 - **Structure du post** : celle de son style, dans `references/structures-posts.md`.
 - **Squelette en tirets** : un tiret par bloc de la structure, précédé du nom du bloc, quelques mots, jamais des phrases rédigées. Les tirets reprennent ses mots à elle, pas ceux de l'agent. Un post court a peu de blocs.
 - **Appel à l'action** : question en commentaire, message privé, lead magnet (lien en PS) ou prise de rendez-vous. Un BOFU renvoie toujours vers le lead magnet ou l'agenda.
-- **Format** : texte seul, carrousel, visuel (une vraie photo qui illustre le hook, sinon pas de visuel), vidéo courte, vidéo longue, story, email
+- **Format** (options de la colonne) : Post (texte seul) · Carrousel · Visuel (une vraie photo qui illustre le hook, sinon pas de visuel) · Reel / Vidéo · Vidéo longue · Story · Thread · Email
 - **Statut** : 💡 Idée
 
 Les semaines 1 et 2 sont remplies en entier. Les semaines 3 et 4 aussi, et l'agent prévient qu'elles seront ajustées au point hebdo.
