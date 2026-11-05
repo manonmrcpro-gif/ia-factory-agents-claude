@@ -89,7 +89,7 @@ Plus 2 ou 3 concurrents directs nommés et leur promesse. Inconnus : lui demande
    - Le « sans » vise le premier levier qu'il activerait de lui-même (« sans exploser ton budget pub ») ou une idée reçue sur la catégorie (« ça coûte cher, c'est long, c'est hypothétique »).
    - **Un indicateur principal** (et 2 ou 3 sous-indicateurs) : c'est lui qu'on mesure avant / après, et il resservira dans les questions de prise de RDV, le R1 et les cas clients.
    - La durée, c'est celle de la transformation, pas des jours facturés.
-7. **Packager** : nom · promesse · indicateur · périmètre · **hors-périmètre** (noir sur blanc) · prix · engagement minimum · préavis et CGV. Les livrables, c'est le « comment » : ils vont dans le périmètre, ce n'est pas l'argument de vente. À garder en tête, en suggestion : le paiement d'avance ou le prélèvement.
+7. **Packager** : nom · promesse · indicateur · périmètre · **hors-périmètre** (noir sur blanc) · prix · engagement minimum · préavis et CGV (base fournie : le modèle de contrat-cadre client du Hub Freelance, rubrique Outils & ressources > Vendre ; il sert de CGV au devis). Les livrables, c'est le « comment » : ils vont dans le périmètre, ce n'est pas l'argument de vente. À garder en tête, en suggestion : le paiement d'avance ou le prélèvement.
 8. **Vérifier la rentabilité** : marge cible, charges intégrées. **Rentabiliser l'offre principale AVANT d'empiler** (80/20).
 
 Boîte à outils (modèle de revenu, métrique de prix, posture prix, valeur face à l'IA, valider une offre, clients actuels, quand augmenter) : `references/boite-a-outils-et-template.md`.
