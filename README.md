@@ -1,35 +1,36 @@
 # IA Factory Agents
 
-Plugin Claude (Cowork / Claude Code) qui regroupe les **13 agents de la Bibliothèque d'agents IA Factory** sous forme de skills, plus l'interview qui crée tes documents de référence. Chaque skill reprend le prompt de l'agent (rôle, méthode, règles, format de sortie), avec les exemples et templates dans `references/`.
+Plugin Claude (Cowork / Claude Code) qui regroupe les **14 agents de la Bibliothèque d'agents IA Factory** sous forme de skills, plus l'interview qui crée tes documents de référence. Chaque skill reprend le prompt de l'agent (rôle, méthode, règles, format de sortie), avec les exemples et templates dans `references/`.
 
-## Les skills
+## Les agents
 
-| Pilier | Skill | Ce qu'il fait |
+| Pilier | Agent (skill) | Ce qu'il fait |
 |---|---|---|
-| Point de départ | `documents-de-reference` | Interview en notes vocales (2 sessions) qui crée tes 3 documents de référence : ADN, méthode & économie ; Ma voix ; Mes règles IA. À lancer en premier. |
-| Socle commun | `transcript-next-actions` | Classe un transcript (interne / formation / prospect / client), le rattache à la bonne fiche, synthétise et extrait les next actions. Le 1er agent de tous. |
-| Socle commun | `maintenance-agents` | Garde ton système d'agents sans doublon, documenté et à jour : vérifie chaque agent créé ou modifié, met à jour ton schéma d'écosystème, compare tes agents personnalisés avec la dernière version du plugin. |
-| Socle commun | `voc-voix-du-client` | Extrait verbatims, patterns, voix du marché et du produit d'un corpus client. Nourrit contenu et vente. |
-| Pilotage | `coach-process-ia` | Diagnostic de tes processus avant tout projet IA : cartographie, coût de l'inaction, sweet spot IA, Now / Next / Later avec ROI. |
-| Acquisition Marketing | `strategie-edito` | Calendrier de contenu du mois (3 à 7 posts par semaine) et tableau de bord : veille des comptes de référence avec score de surperformance (Apify ou navigateur), matière existante, voix du client, histoires ; pour chaque post, source, étape, style, 3 hooks et un squelette en tirets à rédiger soi-même. |
-| Acquisition Marketing | `redaction-contenu` | Écrit un contenu prêt à publier depuis une ligne du calendrier, dans Ta Voix, avec 3 hooks et 7 sweeps. |
-| Acquisition Marketing | `lead-magnet-funnel` | Agent Lead Magnet : lead magnet (quiz diagnostic en premier) + page de capture + 5 emails après l'inscription. |
-| Acquisition Marketing | `cas-clients` | Transforme un projet réussi en cas client Avant → Pont → Après (version site + post/carrousel). |
-| Acquisition commerciale | `preparation-rdv-decouverte` | Fiche stratégique + guide de call avant chaque R1 (SPICED, P.A.S.P., qui décide). |
-| Acquisition commerciale | `analyse-call-closing` | Après le RDV : analyse du call pour progresser, objections, plan d'action commun (MAP), mail de suivi et échange de décision calé (jamais de décision par mail). |
-| Acquisition commerciale | `propale` | Proposition commerciale qui fait signer : diagnostic, coût de l'inaction, ROI par hypothèses, un seul next step. |
-| Delivery | `chef-de-projet` | Suivi de mission + récap client adapté au canal (email, Slack, espace client). |
-| Pilotage | `cadrage-offre-pricing` | Part de ton existant, fixe plancher et objectif, décline ton CA par mois en offre principale + secondaires pricées à la valeur, écrit ta promesse et son indicateur. |
+| Point de départ | Florence, tes Documents de référence (`documents-de-reference`) | Interview en notes vocales (2 sessions) qui crée tes 3 documents de référence : ADN, méthode & économie ; Ma voix ; Mes règles IA. À lancer en premier. |
+| Socle commun | Tina, ton Transcript (`transcript-next-actions`) | Classe un transcript (interne / formation / prospect / client), le rattache à la bonne fiche, synthétise et range les next actions. |
+| Socle commun | Constance, ta Maintenance (`maintenance-agents`) | Garde ton système d'agents sans doublon, documenté et à jour, et met ton schéma d'écosystème à jour. |
+| Socle commun | Aya, ta Voix du client (`voc-voix-du-client`) | Relit tes appels chaque semaine, fait remonter ce qui revient avec les mots exacts, envoie les idées de posts dans ton calendrier. |
+| Pilotage | Nadia, ta Coach Process et IA (`coach-process-ia`) | Diagnostic de tes processus avant tout projet IA : cartographie, coût de l'inaction, Now / Next / Later avec ROI. |
+| Pilotage | Joséphine, ton Cadrage offre et pricing (`cadrage-offre-pricing`) | Part de ton existant, fixe plancher et objectif, décline ton CA en offres pricées à la valeur, écrit ta promesse. |
+| Acquisition Marketing | Coco, ta Stratégie édito (`strategie-edito`) | Calendrier du mois sur 3 piliers (le marché, ta méthode, toi), veille avec score sur la médiane, hooks et squelettes ; tableau de bord en artefact et point hebdo (arrête / double / teste, personnes chaudes). Ne rédige jamais. |
+| Acquisition Marketing | Simone, ta Coach rédaction (`redaction-contenu`) | Te fait raconter, relit ton post (hook, toboggan, chute, tics d'IA), propose des options, te fait lire à voix haute. N'écrit pas à ta place. |
+| Acquisition Marketing | Juliette, ton Lead Magnet (`lead-magnet-funnel`) | Quiz diagnostic, page de capture et 5 emails après l'inscription. |
+| Acquisition Marketing | Serena, tes Cas clients (`cas-clients`) | Transforme une mission réussie en cas client Avant → Pont → Après. |
+| Acquisition commerciale | Mireille, ta Veille offres de mission (`veille-offres-mission`) | Repère les offres de mission sur LinkedIn, Malt et Welcome to the Jungle avec des mots-clés testés en direct, les trie et donne une piste d'angle pour candidater. |
+| Acquisition commerciale | Berthe, ta Préparation RDV découverte (`preparation-rdv-decouverte`) | Fiche stratégique + guide de call avant chaque R1. |
+| Acquisition commerciale | Nicole, ton Analyse de call (`analyse-call-closing`) | Après le RDV : analyse du call, objections, plan d'action commun, mail de suivi, closing. |
+| Acquisition commerciale | Nawal, ta Propale (`propale`) | Proposition commerciale qui fait signer : diagnostic, coût de l'inaction, ROI, un seul next step. |
+| Delivery | Colette, ta Cheffe de projet (`chef-de-projet`) | Suivi de mission + récap client adapté au canal. |
 
 ## Le socle commun
 
-Chaque agent (sauf Stratégie édito et Rédaction, en cours de refonte) suit le même socle : il annonce en démarrant à quoi il sert, où il lit et où il range, et s'il s'utilise tel quel ou se personnalise ; il vérifie ses sources et ne crée rien en double ; il explique chaque outil qu'il fait entrer ; il va chercher l'info dans le navigateur plutôt que de demander des captures ; il rend le process en fin de séance (gris = l'IA, rose = à la main, goulots signalés) ; il finit par « Où on en est ».
+Chaque agent suit le même socle : il annonce en démarrant à quoi il sert, où il lit et où il range, et s'il s'utilise tel quel ou se personnalise ; il vérifie ses sources et ne crée rien en double ; il explique chaque outil qu'il fait entrer ; il va chercher l'info dans le navigateur plutôt que de demander des captures ; il rend le process en fin de séance (gris = l'IA, rose = à la main, goulots signalés) ; il finit par « Où on en est ». Aucun agent ne rédige un message à copier-coller pour une personne réelle : il suggère une piste, tu écris.
 
 ## Les chaînes
 
-- **Contenu** : `voc-voix-du-client` → `strategie-edito` → `redaction-contenu`
-- **Vente** : `lead-magnet-funnel` → `preparation-rdv-decouverte` → `analyse-call-closing` → `propale`
-- **Delivery** : `transcript-next-actions` → `chef-de-projet` → `cas-clients`
+- **Contenu** : Aya, ta Voix du client → Coco, ta Stratégie édito → Simone, ta Coach rédaction
+- **Vente** : Juliette, ton Lead Magnet / Mireille, ta Veille offres de mission → Berthe, ta Préparation RDV découverte → Nicole, ton Analyse de call → Nawal, ta Propale
+- **Delivery** : Tina, ton Transcript → Colette, ta Cheffe de projet → Serena, tes Cas clients
 
 ## Docs de référence attendus
 

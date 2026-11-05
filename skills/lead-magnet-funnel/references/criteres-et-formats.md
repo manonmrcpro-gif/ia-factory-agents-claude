@@ -23,9 +23,9 @@
 
 1. **L'angle** : une question que le persona se pose vraiment sur lui-même (« es-tu prêt à automatiser ? »). Le résultat éclaire, jamais n'humilie.
 2. **8 à 10 questions**, à cocher (jamais de texte libre : rapide à répondre), chacune reliée à un axe de diagnostic (points ou profil). Au-delà, ça devient un interrogatoire : le prospect connaît à peine l'utilisateur, il faut peu lui demander. Méthode à beaucoup d'axes : une question par axe, ou moins d'axes.
-3. **3 à 4 résultats / profils** : nom + où tu en es (à partir de ses réponses) + les risques + 3 priorités + quoi faire maintenant avec une seule ressource (outil, gabarit, agent…) + lien de prise de rendez-vous (qui ouvre vers l'offre). Réponses courtes et bien distinctes : on répond sans réfléchir.
+3. **3 à 4 résultats / profils** : nom + où tu en es (à partir de ses réponses) + les risques + 3 priorités + quoi faire maintenant (sans renvoyer vers une autre ressource) + lien de prise de rendez-vous (qui ouvre vers l'offre). Le coût de l'inaction et le gain en haut, en gros. Réponses courtes et bien distinctes : on répond sans réfléchir.
 4. **Teaser, puis capture email** : après la dernière question, « Ton diagnostic est prêt » avec les premières lignes du résultat et le reste flouté, puis le formulaire Brevo (« où on t'envoie ton résultat complet ? »). Tout afficher à l'écran = plus aucune raison de laisser son mail. Après le formulaire, deux parcours selon le nom de domaine. Avec : un récap de 2 ou 3 lignes et le lien de prise de rendez-vous, le résultat complet part dans l'email 1, tout de suite. Sans : la personne arrive sur la page de résultat qui suit le formulaire, résultat complet, le lien de prise de rendez-vous, et part aussi par email.
-5. **Les réponses nourrissent la qualification** : le profil remonte au CRM, l'agent Préparation RDV découverte sait à qui il a affaire.
+5. **Les réponses nourrissent la qualification** : le profil remonte au CRM, Berthe, ta Préparation RDV découverte, sait à qui il a affaire.
 
 ## Zoom : le résultat du quiz, viser un vrai rapport de diagnostic
 
@@ -42,7 +42,7 @@ Un score seul ne marque personne. Le résultat qui fait dire « waouh, elle m'a 
 
 Ton : tutoiement, chiffres précis, lucide ET motivant. La personnalisation vient des réponses du quiz + des infos demandées (activité, CA, objectif, canaux).
 
-**Réalisme** : V1 = la page du quiz codée par l'IA (un fichier HTML, hébergé sur Netlify) + le formulaire Brevo + un résultat par profil (au minimum : où tu en es, les risques, 3 priorités, quoi faire maintenant et une ressource) envoyé par l'email 1, ou affiché sur la page de résultat qui suit le formulaire sans nom de domaine, en ligne vite. Le résultat reste digeste : le prospect doit en tirer de la valeur en moins de 15 minutes. V2 = le rapport généré par IA à partir des réponses (formulaire → automatisation → modèle IA nourri de la grille de diagnostic → page web, PDF ou email). Ne pas bloquer la V1 pour la V2.
+**Réalisme** : V1 = la page du quiz codée par l'IA (un fichier HTML, hébergé sur Netlify) + le formulaire Brevo + un résultat par profil (au minimum : où tu en es, les risques, 3 priorités, quoi faire maintenant) envoyé en PDF par l'email 1, ou affiché sur la page de résultat qui suit le formulaire sans nom de domaine, en ligne vite. Le résultat reste épuré : le prospect comprend l'essentiel en 30 secondes (coût de l'inaction et gain en haut), et en tire de la valeur en moins de 15 minutes. V2 = le rapport généré par IA à partir des réponses (formulaire → automatisation → modèle IA nourri de la grille de diagnostic → page web, PDF ou email). Ne pas bloquer la V1 pour la V2.
 
 ## Les 5 niveaux de conscience
 
