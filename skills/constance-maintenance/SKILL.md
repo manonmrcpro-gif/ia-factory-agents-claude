@@ -1,5 +1,5 @@
 ---
-name: maintenance-agents
+name: constance-maintenance
 description: Constance, ta Maintenance. Garde ton système d'agents propre et à jour : vérifie qu'un agent nouveau ou modifié ne fait pas doublon (avec un autre agent ou avec tes bases), documente où chaque info est enregistrée, met à jour ton schéma d'écosystème, et compare tes agents personnalisés avec la dernière version du plugin IA Factory pour te proposer les nouveautés. Utiliser quand l'utilisateur dit « je viens de créer un agent », « j'ai modifié mon agent », « vérifie mes doublons », « mets à jour mon schéma », « qu'est-ce qui a changé dans les agents ? », « mes agents sont-ils à jour ? », ou quand quelque chose arrive en double.
 ---
 
@@ -37,7 +37,7 @@ En tâche planifiée : ni annonce ni question, mais toujours le compte rendu (po
 - Autour, un îlot par pilier (Socle commun, Acquisition marketing, Acquisition commerciale, Pilotage, Delivery), chacun avec sa couleur et un bandeau titre. Une flèche « nourrit » part du centre vers chaque îlot.
 - Dans chaque îlot, une ligne par agent : **outil → agent → ce qu'il produit**.
   - Outil = une tuile : « ★ Nom » (must-have, fond plein) ou « ○ Nom » (nice-to-have, bord en pointillés), « · à ajouter / à garder », le prix, à quoi il sert, « 🔗 Ouvrir l'outil » avec le lien.
-  - Agent = une carte : titre « 📦 Agent … » (agent du bootcamp) ou « 🛠️ Agent … » (sur mesure), et dans la description Type, Objectif, Déclencheur (🖱️ à la main, 🔄 tâche planifiée, 🔗 lancé par un autre agent), Lit, Produit, Template (la commande exacte, ex. /preparation-rdv-decouverte).
+  - Agent = une carte : titre « 📦 Agent … » (agent du bootcamp) ou « 🛠️ Agent … » (sur mesure), et dans la description Type, Objectif, Déclencheur (🖱️ à la main, 🔄 tâche planifiée, 🔗 lancé par un autre agent), Lit, Produit, Template (la commande exacte, ex. /berthe-preparation-rdv).
   - Livrable = une pastille de la couleur de l'îlot, avec un emoji (ex. « 📋 Fiche prospect + guide d'appel »).
   - Flèches : outil → agent, agent → livrable.
 - Un outil utilisé par plusieurs agents du même îlot = **une seule tuile**, avec une flèche vers chaque agent.
@@ -90,6 +90,28 @@ Un agent du plugin utilisé tel quel se met à jour tout seul. Un agent dupliqu�
    - **Les nouveautés de son système.** Repérer tout ce qui est apparu depuis le dernier passage : un agent (du plugin, de son compte, ou un agent sur mesure qu'elle a créé elle-même), un outil, une base. Pour chacun, appliquer tout seul les points 1, 4, 5 et 6 du mode 1 : sa carte d'identité, les trous, sa fiche dans la Bibliothèque d'agents, et le Miro (schéma d'écosystème et frame Process). Un doublon est seulement signalé (post-it orange « Doublon » sur le Miro et ligne dans le compte rendu), jamais supprimé ni fusionné.
    - **Les mises à jour du plugin et du hub, les noms qui changent** : seulement listés, avec « Tu veux l'ajouter ? ». Rien de ce qu'elle a personnalisé n'est modifié sans son accord.
 9. **Le compte rendu, à chaque fois que le Miro a bougé** (en tâche planifiée comme à la main), commencer par : « J'ai mis à jour ton Miro : [lien direct vers la frame ou le board] », puis une ligne par changement : ce qui a été ajouté ou modifié (carte, frame Process, post-it), et pourquoi (le nouvel agent, outil ou base qui l'a déclenché). Rien n'a bougé : le dire en une ligne.
+
+## Les anciens noms des agents (renommage du 05/11/2026)
+
+Les agents du plugin ont changé de nom technique le 05/11/2026 : leurs commandes changent aussi (ex. /strategie-edito devient /coco-strategie-edito). Quand elle cite un ancien nom, ou qu'une tâche planifiée, un agent dupliqué, une fiche ou une note l'utilise encore, le remplacer par le nouveau (point 7 du mode 2), et lui lister les tâches planifiées à mettre à jour avec la nouvelle commande.
+
+| Ancien nom | Nouveau nom |
+|---|---|
+| `analyse-call-closing` | `nicole-analyse-call` |
+| `cadrage-offre-pricing` | `josephine-cadrage-offre` |
+| `cas-clients` | `serena-cas-clients` |
+| `chef-de-projet` | `colette-cheffe-de-projet` |
+| `coach-process-ia` | `nadia-coach-process-ia` |
+| `documents-de-reference` | `florence-documents-de-reference` |
+| `lead-magnet-funnel` | `juliette-lead-magnet` |
+| `maintenance-agents` | `constance-maintenance` |
+| `preparation-rdv-decouverte` | `berthe-preparation-rdv` |
+| `propale` | `nawal-propale` |
+| `redaction-contenu` | `simone-coach-redaction` |
+| `strategie-edito` | `coco-strategie-edito` |
+| `transcript-next-actions` | `tina-transcript` |
+| `veille-offres-mission` | `mireille-veille-missions` |
+| `voc-voix-du-client` | `aya-voix-du-client` |
 
 ## Format de sortie
 
