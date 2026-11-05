@@ -32,7 +32,7 @@ En tâche planifiée : ni annonce ni question ; le process en sortie seulement s
   - **Ta méthode** : comment elle travaille et ce qu'elle conseille (sa méthode, ses outils, ses cas clients, ses résultats).
   - **Toi** : son business raconté de l'intérieur (ses décisions, ses ratés, ses chiffres, ses coulisses, ses convictions). Pas le chiffre d'affaires du mois pour briller : l'histoire de ce qui se construit.
   L'agent les personnalise : pour chaque pilier, 3 à 5 thèmes à elle, tirés de ses documents de référence. Les 3 piliers apparaissent chaque mois, sans pourcentage imposé.
-- **La source, rangée par l'agent.** Chaque post garde d'où vient l'idée : 🗣️ Voix du client, 🔎 Veille, ✨ Elle. C'est la traçabilité (zéro invention) et l'équilibre : aucune source ne dépasse la moitié du mois. L'utilisatrice n'a rien à remplir.
+- **La source, rangée par l'agent.** Chaque post garde d'où vient l'idée : 🗣️ Voix du client, 🔎 Veille, ✨ Moi (ses histoires à elle). C'est la traçabilité (zéro invention) et l'équilibre : aucune source ne dépasse la moitié du mois. L'utilisatrice n'a rien à remplir.
 - **Veille + vécu, jamais l'un sans l'autre.** Un sujet repéré en veille passe toujours par son vécu (son avis, un cas, une scène). Un mois qui ne repose que sur son vécu ne parle qu'à elle.
 - **Les histoires attirent et créent la confiance.** L'expertise seule fait peu de vues.
 - **Chaque semaine fait connaître ET fait signer.** Au moins un TOFU et au moins un BOFU.
@@ -127,7 +127,7 @@ Pour chaque post, remplir **tous** les champs :
 - **Date** de publication et **canal**
 - **Sujet** : une phrase qui dit de quoi parle le post
 - **Pilier** : Le marché · Ta méthode · Toi
-- **Source** : 🗣️ Voix du client · 🔎 Veille · ✨ Elle
+- **Source** : 🗣️ Voix du client · 🔎 Veille · ✨ Moi
 - **Matière d'origine** si le post vient d'un podcast, d'une conférence, d'une vidéo, d'un ancien post ou d'un transcript
 - **Étape** : 🟢 TOFU · 🟡 MOFU · 🔴 BOFU, et pour un post large, pourquoi il est large
 - **Style**
