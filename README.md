@@ -23,7 +23,7 @@ Plugin Claude (Cowork / Claude Code) qui regroupe les **13 agents de la Biblioth
 
 ## Le socle commun
 
-Chaque agent (sauf Stratégie édito et Rédaction, en cours de refonte) suit le même socle : il annonce en démarrant à quoi il sert, où il lit et où il range, et s'il s'utilise tel quel ou se personnalise ; il vérifie ses sources et ne crée rien en double ; il explique chaque outil qu'il fait entrer ; il va chercher l'info dans le navigateur plutôt que de demander des captures ; il rend le process en fin de séance (gris = l'IA, rouge = à la main, goulots signalés) ; il finit par « Où on en est ».
+Chaque agent (sauf Stratégie édito et Rédaction, en cours de refonte) suit le même socle : il annonce en démarrant à quoi il sert, où il lit et où il range, et s'il s'utilise tel quel ou se personnalise ; il vérifie ses sources et ne crée rien en double ; il explique chaque outil qu'il fait entrer ; il va chercher l'info dans le navigateur plutôt que de demander des captures ; il rend le process en fin de séance (gris = l'IA, rose = à la main, goulots signalés) ; il finit par « Où on en est ».
 
 ## Les chaînes
 
