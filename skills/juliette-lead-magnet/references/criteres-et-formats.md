@@ -42,7 +42,7 @@ Un score seul ne marque personne. Le résultat qui fait dire « waouh, elle m'a 
 
 Ton : tutoiement, chiffres précis, lucide ET motivant. La personnalisation vient des réponses du quiz + des infos demandées (activité, CA, objectif, canaux).
 
-**Réalisme** : V1 = la page du quiz codée par l'IA (un fichier HTML, hébergé sur Netlify) + le formulaire Brevo + un résultat par profil (au minimum : où tu en es, les risques, 3 priorités, quoi faire maintenant) envoyé en PDF par l'email 1, ou affiché sur la page de résultat qui suit le formulaire sans nom de domaine, en ligne vite. Le résultat reste épuré : le prospect comprend l'essentiel en 30 secondes (coût de l'inaction et gain en haut), et en tire de la valeur en moins de 15 minutes. V2 = le rapport généré par IA à partir des réponses (formulaire → automatisation → modèle IA nourri de la grille de diagnostic → page web, PDF ou email). Ne pas bloquer la V1 pour la V2.
+**Réalisme** : V1 = la page du quiz codée par l'IA (un fichier HTML, hébergé sur Netlify) + le formulaire Brevo + un résultat par profil (au minimum : où tu en es, les risques, 3 priorités, quoi faire maintenant) envoyé dans le corps de l'email 1, ou affiché sur la page de résultat qui suit le formulaire sans nom de domaine, en ligne vite. Le résultat reste épuré : le prospect comprend l'essentiel en 30 secondes (coût de l'inaction et gain en haut), et en tire de la valeur en moins de 15 minutes. V2 = le rapport généré par IA à partir des réponses (formulaire → automatisation → modèle IA nourri de la grille de diagnostic → page web, PDF ou email). Ne pas bloquer la V1 pour la V2.
 
 ## Les 5 niveaux de conscience
 
