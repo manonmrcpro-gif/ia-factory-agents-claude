@@ -64,6 +64,7 @@ Lire :
 3. La **synthèse Voix du client** la plus récente, et les idées de posts qu'elle a déjà fait remonter dans le calendrier.
 4. **Sa vraie semaine** : les transcripts récents (base Transcripts de réunion), les commentaires et messages reçus. Une question qu'on lui pose = un sujet. Une objection = un angle. Une victoire de client = une preuve. Une phrase exacte d'un client = un hook. Un sujet entendu 3 fois = un post à faire.
 5. Le **calendrier existant** et le **tableau de bord** s'ils existent : ce qui a été publié, ce qui a marché, ce qui a fait un flop.
+6. La **base « Veille »** si elle existe : les « Idée notée » pas encore utilisées sont des sujets candidats, les « Flop à éviter » disent ce qu'il ne faut pas refaire, les « Écarté » ne sont jamais reproposés. Et la section « 9.4 Les comptes que je surveille » de son document ADN, méthode & économie : c'est la liste des comptes de la veille.
 
 Ce qui manque est signalé en une ligne, sans bloquer.
 
@@ -76,7 +77,7 @@ Questions **2 à 3 à la fois**. Ne jamais reposer une question dont la réponse
 3. **Matière existante** : podcasts, vidéos, conférences, webinaires, interviews, articles, anciens posts qui ont marché. Demander les liens ou les transcripts. Une intervention d'une heure donne facilement 4 à 6 posts.
 4. **Banque d'histoires** (si les documents de référence en donnent moins de 5) : une galère, un déclic, une erreur qui a coûté cher, un choix que les autres n'auraient pas fait, une scène avec un client. Une ligne par histoire suffit.
 5. **Ce qu'elle veut défendre** ce mois-ci, même si personne ne le demande.
-6. **Les comptes à surveiller** : 3 à 5 en France, 1 à 2 à l'étranger (souvent aux États-Unis), avec le lien du profil. Si elle n'en connaît pas, l'agent en propose et elle choisit.
+6. **Les comptes à surveiller** : 3 à 5 en France, 1 à 2 à l'étranger (souvent aux États-Unis), avec le lien du profil. Si elle n'en connaît pas, l'agent en propose et elle choisit. Si la section « 9.4 Les comptes que je surveille » de son ADN est remplie, ne pas reposer la question. Une fois la liste choisie, **l'agent l'écrit lui-même** dans cette section (une ligne par compte : nom, lien du profil, plateforme, France ou étranger ; section créée si elle n'existe pas) et le dit en une ligne, sans demander de validation. Sans accès en écriture à ses documents : lui donner le bloc prêt à coller dans la section 9.4.
 
 **Challenger** : conviction tiède → « l'avis que les autres de ton métier n'osent pas dire ? » ; histoire vague → « raconte la scène : où, quand, qu'est-ce qui a été dit ? » ; cadence irréaliste → ramener à ce qu'elle a tenu les semaines passées.
 
@@ -94,7 +95,7 @@ But : voir ce qui marche sur son marché, pour s'en inspirer sans copier.
 6. **Ce que la cible cherche** : questions posées en commentaire chez les comptes suivis, recherches sur son sujet, questions qui reviennent dans les groupes de sa cible.
 7. **Sortie** : un tableau des 5 à 10 posts qui surperforment (compte, sujet, angle, format, mécanique du hook, score) et des 2 ou 3 flops, puis **2 à 3 constats** et **le trou à prendre** : un angle que personne n'occupe sur son marché, s'il y en a un. Aucun chiffre inventé.
 
-Ranger la veille dans la base « Veille » du Hub Freelance (Post, Compte, Abonnés du compte, Plateforme, Marché, Lien du post, Sujet, Angle, Format, Mécanique du hook, Interactions, Médiane du compte, Score, Date de publication, Statut (Nouveau, Idée notée, Flop à éviter, Écarté) ; à créer si son hub n'en a pas, ajouter les colonnes qui manquent sans toucher aux autres ; une ancienne colonne « Moyenne du compte » se renomme en « Médiane du compte »).
+Ranger la veille dans la base « Veille » du Hub Freelance (Post, Compte, Abonnés du compte, Plateforme, Marché, Lien du post, Sujet, Angle, Format, Mécanique du hook, Interactions, Médiane du compte, Score, Date de publication, Statut (Nouveau, Idée notée, Utilisée, Flop à éviter, Écarté) ; à créer si son hub n'en a pas, ajouter les colonnes qui manquent sans toucher aux autres ; une ancienne colonne « Moyenne du compte » se renomme en « Médiane du compte »). **Pas de doublon** : avant de ranger un post, chercher son `Lien du post` dans la base ; s'il y est déjà, mettre à jour ses interactions, sa médiane et son score au lieu de créer une deuxième ligne, sans toucher à son statut.
 
 ## Étape 4 : la stratégie du mois (présentée avant de remplir)
 
@@ -128,7 +129,7 @@ Pour chaque post, remplir **tous** les champs :
 - **Sujet** : une phrase qui dit de quoi parle le post
 - **Pilier** : Le marché · Ta méthode · Toi
 - **Source** : 🗣️ Voix du client · 🔎 Veille · ✨ Moi
-- **Matière d'origine** si le post vient d'un podcast, d'une conférence, d'une vidéo, d'un ancien post ou d'un transcript
+- **Matière d'origine** si le post vient de la veille (le lien du post repéré, et la ligne de la base « Veille » passe en « Utilisée »), d'un podcast, d'une conférence, d'une vidéo, d'un ancien post ou d'un transcript
 - **Étape** : 🟢 TOFU · 🟡 MOFU · 🔴 BOFU, et pour un post large, pourquoi il est large
 - **Style**
 - **Objectif** (options de la colonne) : Portée · Engagement · Abonnés · Inscriptions lead magnet · Conversations en DM · Rendez-vous
@@ -151,6 +152,7 @@ Tout le détail (ce qui se récupère seul, ce qui reste à la main, l'artefact,
 - **Un seul tableau de bord, toujours le même**, mis à jour à chaque point hebdo, en artefact Claude, avec son lien rangé dans Notion. Il met en avant le post qui a le mieux marché.
 - **Le point hebdo** (même jour chaque semaine, une tâche planifiée peut le lancer) : ce qui a marché et ce qui a fait un flop, lu selon l'objectif de chaque post ; **arrête / double / teste** ; comparaison avec le point précédent ; les personnes chaudes ; les conversations de la semaine ; les ajustements des semaines suivantes.
 - **Les personnes chaudes** : deux listes séparées, **celles qui commentent** et **celles qui likent**, filtrées sur sa cible. Pour chacune, une piste de conversation formulée pour elle (« tu pourrais lui demander comment s'est passé le lancement dont elle parlait »), appuyée sur ce que la personne a vraiment écrit. **Jamais de message rédigé à copier-coller** : elle écrit avec ses mots. Le principe à lui rappeler une fois : un message court, qui pose une question simple, facile à répondre.
+- **Les comptes suivis** : un compte qui ne donne rien depuis deux veilles, ou un nouveau compte qui sort en veille, l'agent met à jour lui-même la section 9.4 de son ADN et le dit en une ligne.
 - **Les conversations créent les clients** : compter chaque semaine les messages privés, mails et visios ouverts grâce au contenu.
 
 ## Format de sortie (création du mois)
