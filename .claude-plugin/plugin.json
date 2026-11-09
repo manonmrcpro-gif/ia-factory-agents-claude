@@ -1,7 +1,7 @@
 {
   "name": "ia-factory-agents",
-  "version": "0.13.1",
-  "description": "Les 14 agents de la bibliothèque IA Factory en skills (Aya, Tina, Constance, Coco, Simone, Juliette, Serena, Nadia, Mireille, Berthe, Nicole, Nawal, Colette, Joséphine), plus l'interview en notes vocales qui crée tes 3 documents de référence.",
+  "version": "0.14.0",
+  "description": "Les 15 agents de la bibliothèque IA Factory en skills (Aya, Tina, Constance, Coco, Simone, Juliette, Serena, Nadia, Mireille, Berthe, Nicole, Nawal, Colette, Joséphine, Hortense), plus l'interview en notes vocales qui crée tes 3 documents de référence.",
   "author": {
     "name": "Manon Mercier"
   },

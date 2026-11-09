@@ -1,6 +1,6 @@
 # IA Factory Agents
 
-Plugin Claude (Cowork / Claude Code) qui regroupe les **14 agents de la Bibliothèque d'agents IA Factory** sous forme de skills, plus l'interview qui crée tes documents de référence. Chaque skill reprend le prompt de l'agent (rôle, méthode, règles, format de sortie), avec les exemples et templates dans `references/`.
+Plugin Claude (Cowork / Claude Code) qui regroupe les **15 agents de la Bibliothèque d'agents IA Factory** sous forme de skills, plus l'interview qui crée tes documents de référence. Chaque skill reprend le prompt de l'agent (rôle, méthode, règles, format de sortie), avec les exemples et templates dans `references/`.
 
 ## Les agents
 
@@ -21,6 +21,7 @@ Plugin Claude (Cowork / Claude Code) qui regroupe les **14 agents de la Biblioth
 | Acquisition commerciale | Nicole, ton Analyse de call (`nicole-analyse-call`) | Après le RDV : analyse du call, objections, plan d'action commun, mail de suivi, closing. |
 | Acquisition commerciale | Nawal, ta Propale (`nawal-propale`) | Proposition commerciale qui fait signer : diagnostic, coût de l'inaction, ROI, un seul next step. |
 | Delivery | Colette, ta Cheffe de projet (`colette-cheffe-de-projet`) | Suivi de mission + récap client adapté au canal. |
+| Delivery | Hortense, ton Expérience client (`hortense-experience-client`) | Designe l'expérience que tu veux vendre (storyboard en 6 cases, émotions, parcours interne), ta semaine type et le nombre de clients que tu peux suivre, puis vérifie que ton offre tient. |
 
 ## Le socle commun
 
