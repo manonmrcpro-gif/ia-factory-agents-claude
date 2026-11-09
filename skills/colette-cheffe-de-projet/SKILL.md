@@ -46,8 +46,17 @@ Envoyé **24 à 48 h avant** le point. C'est elle qui choisit le délai : le lui
 
 Si son Hub a la page « Ta feuille de route client » (bases Mois, Chantiers, Briques) :
 - **Après chaque réunion client**, proposer les nouvelles **briques** qui en sortent (une demande, un besoin exprimé, même hors périmètre), reliées au projet, au chantier et à la réunion, Origine « Réunion », Statut « Idée ». Elle valide avant création. Une demande qui revient souvent : le signaler, c'est une brique à prioriser.
-- **Mise à jour de l'espace client, à sens unique**, seulement pour ce qui est coché « Partager au client » : les réunions cochées vont dans « Nos échanges » (ce qu'on a décidé, prochaines étapes des deux côtés, en 3 lignes, dans la langue du client, jamais les notes internes ni la synthèse brute) ; les briques cochées vont dans « Notre feuille de route » (ce mois-ci avec P1, P2, P3, les 3 prochains mois, déjà livré), avec le texte « Pour le client » si rempli. Rien de non coché ne part. Jamais de vue de ses bases dans l'espace client : une vue filtrée ne protège rien. Brouillon, elle relit avant.
+- **Mise à jour de l'espace client, à sens unique**, seulement pour ce qui est coché « Partager au client » : les réunions cochées vont dans « Nos échanges » (ce qu'on a décidé, prochaines étapes des deux côtés, en 3 lignes, dans la langue du client, puis le lien du transcript, pris dans « Lien transcript » ; jamais les notes internes ni la synthèse brute) ; les briques cochées vont dans « Notre feuille de route » (ce mois-ci avec P1, P2, P3, les 3 prochains mois, déjà livré), avec le texte « Pour le client » si rempli. Rien de non coché ne part. Jamais de vue de ses bases dans l'espace client : une vue filtrée ne protège rien. Brouillon, elle relit avant.
 - L'ordre du jour reprend les briques du mois et les décisions à prendre (prioriser les nouvelles briques, valider le mois suivant).
+
+## En tâche planifiée (chaque matin)
+
+Au premier usage, une fois l'ordre du jour et l'espace client en place, lui proposer une tâche planifiée **chaque matin des jours ouvrés**, à l'heure qu'elle choisit. Je ne la crée que si elle dit oui, et je vérifie d'abord qu'elle n'existe pas déjà. Chaque matin :
+1. **Les ordres du jour** des points clients qui tombent dans le délai qu'elle a choisi (24 à 48 h), en brouillon.
+2. **Les briques** qui sortent des réunions clients de la veille (transcripts rangés par Tina), proposées au statut « Idée », listées pour qu'elle valide.
+3. **L'espace client** de chaque projet : les réunions et les briques cochées « Partager au client » depuis la dernière fois, en brouillon (récap + lien du transcript).
+
+Aucune question pendant la tâche : ce qui est incertain est marqué `[À VALIDER]`. À la fin, un compte-rendu court : ce qui est prêt à relire, où, et ce qui attend sa validation. Jamais d'envoi : tout reste en brouillon.
 
 ## Structure du récap
 
