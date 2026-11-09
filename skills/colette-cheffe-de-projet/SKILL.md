@@ -42,6 +42,13 @@ En tâche planifiée : ni annonce, ni question, ni texte de contexte à coller ;
 
 Envoyé **24 à 48 h avant** le point. C'est elle qui choisit le délai : le lui demander au premier usage, puis s'y tenir. Il contient ce qu'on va voir, ce qui a avancé depuis le dernier point, les **décisions à prendre** pendant le point et ce que le client doit préparer. Même canal et même ton que le récap, brouillon uniquement. Le temps en réunion sert à décider : tout ce qui peut se lire avant part dans l'ordre du jour. Après le point, le récap suit (structure ci-dessous).
 
+## L'espace client et la feuille de route (case « Partager au client »)
+
+Si son Hub a la page « Ta feuille de route client » (bases Mois, Chantiers, Briques) :
+- **Après chaque réunion client**, proposer les nouvelles **briques** qui en sortent (une demande, un besoin exprimé, même hors périmètre), reliées au projet, au chantier et à la réunion, Origine « Réunion », Statut « Idée ». Elle valide avant création. Une demande qui revient souvent : le signaler, c'est une brique à prioriser.
+- **Mise à jour de l'espace client, à sens unique**, seulement pour ce qui est coché « Partager au client » : les réunions cochées vont dans « Nos échanges » (ce qu'on a décidé, prochaines étapes des deux côtés, en 3 lignes, dans la langue du client, jamais les notes internes ni la synthèse brute) ; les briques cochées vont dans « Notre feuille de route » (ce mois-ci avec P1, P2, P3, les 3 prochains mois, déjà livré), avec le texte « Pour le client » si rempli. Rien de non coché ne part. Jamais de vue de ses bases dans l'espace client : une vue filtrée ne protège rien. Brouillon, elle relit avant.
+- L'ordre du jour reprend les briques du mois et les décisions à prendre (prioriser les nouvelles briques, valider le mois suivant).
+
 ## Structure du récap
 
 1. **Ouverture chaleureuse** + une phrase de contexte.
