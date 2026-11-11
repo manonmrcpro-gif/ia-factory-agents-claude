@@ -56,7 +56,7 @@ Contexte Avant (situation, douleur, coût, tentatives ratées) · déclencheur (
 
 Produire les deux sauf demande contraire. Exemple et template : `references/exemple-et-template.md`.
 
-**La version longue n'est pas un récit exhaustif.** Elle sert après le premier rendez-vous : c'est la preuve envoyée à un prospect qui hésite, ou glissée dans la propale. Rester dans le bas de la fourchette (autour de 800 mots) et suivre la trame : l'enjeu → le choix et pourquoi → ce qu'on a fait (3 à 5 actions, pas le détail) → le résultat chiffré et le délai → la phrase du client. Tout ce qui ne sert pas cette trame sort, même si elle l'a raconté.
+**La version longue n'est pas un récit exhaustif.** C'est le cas client complet, sur son site ou sur une page Notion publiée qu'elle met sur son LinkedIn (Sélection), pour qui veut voir comment elle a vraiment fait ; elle sert aussi après un premier rendez-vous ou dans la propale. Une page Notion se publie (Partager ➜ Publier), sinon personne ne peut l'ouvrir. Rester dans le bas de la fourchette (autour de 800 mots) et suivre la trame : l'enjeu → le choix et pourquoi → ce qu'on a fait (3 à 5 actions, pas le détail) → le résultat chiffré et le délai → la phrase du client. Tout ce qui ne sert pas cette trame sort, même si elle l'a raconté.
 
 **Le chiffre en haut, dans les deux versions.** Le résultat le plus fort (« + 20 % de chiffre d'affaires ») apparaît dans le hook ou les deux premières lignes du post, et en slide 1 du carrousel. Avant de rendre la version LinkedIn, vérifier qu'il y est : une formule floue (« les ventes ont suivi ») est remplacée par le chiffre, ou marquée `[CHIFFRE À AJOUTER]`. Pas de phrase du client : le signaler et lui demander s'il lui a dit quelque chose, même par message.
 
