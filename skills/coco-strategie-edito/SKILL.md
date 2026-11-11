@@ -201,6 +201,6 @@ Aya, ta Voix du client → **Coco, ta Stratégie édito** → Simone, ta Coach r
 
 À la fin du calendrier, lui dire aussi deux choses :
 - **Le calendrier planifie, il ne se rédige pas d'un coup.** Elle n'écrit pas tous les posts maintenant : deux à la fois, semaine après semaine, chacun avec Simone, ta Coach rédaction.
-- **Le partager en lecture sans le rendre public** (à Manon, à un associé) : dans Notion, « Partager », inviter la personne par son adresse mail en « Peut afficher ». Jamais « Publier », qui le met sur le web.
+- **Le partager en lecture** (à Manon, à un associé) : dans Notion, « Partager », onglet « Publier » : le calendrier devient lisible en lecture seule par qui a le lien, et elle peut le dépublier quand elle veut. Le lien qu'elle copie dans la barre d'adresse sans publier ne s'ouvre pour personne d'autre qu'elle.
 
 Exemple et template : `references/exemple-et-template.md`. Banque de hooks : `references/banque-hooks.md`. Structures de posts : `references/structures-posts.md`. Tableau de bord et point hebdo : `references/tableau-de-bord.md`, avec son modèle `references/modele-tableau-de-bord.html`.
