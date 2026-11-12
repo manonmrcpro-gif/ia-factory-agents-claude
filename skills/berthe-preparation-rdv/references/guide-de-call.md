@@ -1,6 +1,8 @@
-# Guide de call R1 (trame 30 min par défaut)
+# Guide de call R1 (trame 45 min par défaut)
 
-**1. Intro & cadrage (2 min).** Icebreaker → « tu / vous ? » → plan (10 min enjeux · 10 min outils · 10 min approche) → « OK pour des notes IA ? »
+Quand le temps manque, ce sont les blocs 5 et 6 qui se raccourcissent. L'exploration, la qualification et le closing, jamais.
+
+**1. Intro & cadrage (2 min).** Icebreaker → « tu / vous ? » → « On a bien 45 minutes ? Vous enchaînez avec une réunion juste après ? » → plan (10 min enjeux · 5 min votre existant · 5 min mon approche · la suite) → « OK pour des notes IA ? » Moins de 30 minutes devant vous : on reprogramme plutôt que de bâcler.
 
 **2. Storytelling perso (2 min).** `{histoire fondatrice}` (ADN, méthode & économie, section 1) reliée à ses enjeux.
 
@@ -11,6 +13,7 @@
 - « Qu'avez-vous déjà tenté ? Qu'est-ce qui n'a pas suffi ? »
 - « Et ça vous coûte quoi : temps, énergie, argent, business ? »
 - → **Reformulation active** : « Donc vous avez X, ça bloque parce que Y, l'impact c'est Z. C'est ça ? »
+- C'est le prospect qui nomme son problème, ce qu'il lui coûte et son urgence, avec ses mots, même quand tu as compris : tu poses la question, tu te tais.
 
 **4. Qualification (5 min)** : 5 critères (besoin · personnes · process · budget · timing) + 3 questions :
 - **Urgence** : « Pourquoi maintenant, pas dans 6 mois ? » + « Si rien ne change dans 3 mois, il se passe quoi ? »
@@ -19,10 +22,10 @@
 - **Décideur** : « Qui d'autre a son mot à dire sur ce projet ? » Si le décideur n'est pas en face, il doit être là au R2.
 - → + 1 phrase de **disqualification élégante** si le fit manque (logique Host/Lost).
 
-**5. Outils & stack (10 min)** : grille outil / usage réel / friction. Outils principaux ? Vraiment utilisés ? Communiquent-ils ? Où perd-on du temps ? Déjà automatisé, résultat ? On garde quoi si on repart de zéro ?
+**5. Outils & stack (5 min)** : grille outil / usage réel / friction. Outils principaux ? Vraiment utilisés ? Communiquent-ils ? Où perd-on du temps ? Déjà automatisé, résultat ? On garde quoi si on repart de zéro ?
 
 **6. Expertise & fourchette (5 min max), P.A.S.P. en version courte** : **P**roblème et **A**giter = ta reformulation, avec son coût chiffré à lui → **S**olution = `{méthode}` en une phrase → **P**rojection = 1 preuve. La méthode déroulée sur son cas, c'est le cœur du R2 : au R1, tu écoutes 80 % du temps. Prix : une **fourchette** basse et haute pour filtrer, pas de tarif précis. Le prix exact (1 ou 2 options, double palier « Twingo vs Rolls ») vit dans la propale, présentée en R2.
 
 **7. Questions du prospect.** « Tu as des questions ? » → c'est là que sortent les vraies objections.
 
-**8. Closing (5 min).** Le **R2 se cale avant de raccrocher** : 2 créneaux dans les 48 à 72 h, avec le décideur présent (« Qui d'autre décide avec vous : il peut être là ? »). On ne signe pas par mail et on n'envoie pas de devis : « Je te prépare une proposition sur mesure, je te propose jeudi 10 h ou vendredi 14 h pour te la présenter ? »
+**8. Closing (5 min).** Le **R2 se cale avant de raccrocher** : 2 créneaux dans les 48 à 72 h, avec le décideur présent (« Qui d'autre décide avec vous : il peut être là ? »). On ne signe pas par mail et on n'envoie pas de devis : « Je te prépare une proposition sur mesure, je te propose jeudi 10 h ou vendredi 14 h pour te la présenter ? » Tu envoies l'invitation pendant l'appel et il l'accepte avant de raccrocher. Ce bloc ne se raccourcit jamais.

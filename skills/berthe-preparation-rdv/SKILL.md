@@ -31,7 +31,9 @@ En tâche planifiée : ni annonce, ni question, ni texte de contexte à coller ;
 
 1. **Point de départ : le formulaire Calendly** rempli par le prospect (source n°1) + nom / site / LinkedIn si dispo. Si absent, le demander (ou le chercher dans l'agenda / les mails si un connecteur est disponible).
    Quand elle partage son formulaire de prise de rendez-vous (les questions elles-mêmes, pas les réponses) : le garder court, et une limite de l'outil (Calendly gratuit) est plutôt une bonne chose. À garder : qui il est et ce qu'il vend, sa taille (chiffre d'affaires, équipe), le problème, le budget, qui décide, quand démarrer, comment il a entendu parler d'elle. À sortir : les questions de découverte comme « si rien ne change dans 6 mois, qu'est-ce qui se passe ? ». À l'écrit, on obtient trois mots ; c'est à l'oral, en creusant, que le prospect chiffre ce que ça lui coûte. Ne jamais faire retirer le budget ni qui décide.
-2. Docs de l'utilisateur : **Ma voix** · **ADN, méthode & économie** (sections 1, 2 et 6 : histoire fondatrice, offres/prix, méthode) · **script de découverte R1**. Signaler ce qui manque ; à défaut de script, utiliser la trame 30 min ci-dessous.
+   Les 2 à 3 questions qualifiantes reprennent les indicateurs de sa promesse (ex. chiffre d'affaires par lancement, marge, nombre de clients) : ce sont eux qu'elle creusera au R1 puis dans ses cas clients, et le prospect sait déjà de quoi on va parler. Plutôt des cases à cocher ou des tranches qu'un champ libre : on ne peut pas y répondre en deux mots. C'est le formulaire qui qualifie, pas un échange en messages privés avant d'envoyer le lien.
+   Réglages du rendez-vous : 45 minutes, avec 15 minutes de battement avant (pour relire la fiche) et après (si ça déborde).
+2. Docs de l'utilisateur : **Ma voix** · **ADN, méthode & économie** (sections 1, 2 et 6 : histoire fondatrice, offres/prix, méthode) · **script de découverte R1**. Signaler ce qui manque ; à défaut de script, utiliser la trame 45 min ci-dessous.
 3. Pour un R2 : lire aussi le transcript/la synthèse du R1.
 
 ## Mini-veille et brise-glace (5 min, avant d'écrire)
@@ -44,6 +46,8 @@ Le **brise-glace** va en tête de fiche :
 - l'actu en une phrase + la source (lien) + la date ;
 - la phrase d'ouverture prête à dire ;
 - la question de rebond qui relie l'actu à sa situation (« Et chez vous, ça se traduit comment ? »), pour passer la parole au prospect.
+
+**Sa veille à elle.** À la première utilisation, lui demander ce qu'elle regarde à la main avant un appel (sa bibliothèque publicitaire, sa page de vente, son parcours d'achat, les posts du dirigeant…). Je le fais à sa place à chaque fiche et je lui propose de l'écrire dans son script de découverte (« Ma veille avant un R1 ») pour ne plus avoir à le redire.
 
 Garde-fous : rien de clivant (politique, polémique), pas d'actu négative sur sa boîte en ouverture (licenciements, litige). 30 secondes maximum : l'actu ouvre la conversation, elle ne sert pas à briller. Pas de source fiable → `[À VALIDER]`, jamais d'actu inventée.
 
@@ -62,11 +66,21 @@ Garde-fous : rien de clivant (politique, polémique), pas d'actu négative sur s
 
 **A) Cheat-sheet stratégique** : ICP-fit · trigger events · top 3 pains · dissonances (image / outils) · **coût de l'inaction chiffré** (`[À VALIDER]` si estimé) · quick win / ROI · 2-3 red flags à tester · 1-2 icebreakers vérifiables.
 
-**B) Guide de call** (script R1 de l'utilisateur ; à défaut, trame 30 min détaillée dans `references/guide-de-call.md`) : intro & cadrage → storytelling perso → exploration SPICED → qualification (urgence, budget, sponsor, décideur en face + disqualification élégante) → outils & stack → pitch P.A.S.P. sans prix → questions du prospect → closing sur le R2 calé.
+**B) Guide de call** (script R1 de l'utilisateur ; à défaut, trame 45 min détaillée dans `references/guide-de-call.md`) : intro & cadrage → storytelling perso → exploration SPICED → qualification (urgence, budget, sponsor, décideur en face + disqualification élégante) → outils & stack → pitch P.A.S.P. sans prix → questions du prospect → closing sur le R2 calé.
 
 **C) Qui décide** : qui porte le projet · qui signe / tient le budget · qui peut freiner · la prochaine étape.
 
 Exemple et template : `references/exemple-et-template.md`.
+
+## Tous les matins, sans y penser : la tâche planifiée
+
+À la première utilisation, lui proposer (et la créer sur un oui) une tâche planifiée chaque matin, connecteur Calendly branché :
+1. Lire les rendez-vous de découverte des prochaines 48 h (seulement ses types de rendez-vous de découverte) et les réponses au formulaire.
+2. Pour chacun, la mini-veille (dont sa veille à elle) et la fiche complète.
+3. Ranger la fiche dans la page du prospect de sa base Prospects (« Pipeline & Clients » du Hub Freelance, ou son outil) : une page par prospect, la créer si elle n'existe pas, jamais en double, jamais dans un modèle ou une page d'exemple.
+4. Lui envoyer la liste des rendez-vous du jour avec le lien de chaque fiche.
+
+Son créneau de relecture (socle, point 10), ce sont les 15 minutes de battement avant chaque R1 : elle arrive en ayant lu la fiche, sans y passer une heure.
 
 ## Règles (non négociables)
 

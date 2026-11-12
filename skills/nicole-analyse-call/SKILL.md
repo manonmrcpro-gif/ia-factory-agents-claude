@@ -86,6 +86,8 @@ Le mail **rattrape ce que l'analyse a repéré** (besoin non chiffré, objection
 
 **Pas de série de relances.** Si le call s'est terminé sans décision ni échange calé, c'est l'axe d'amélioration n°1 de l'analyse. Le seul message à envoyer : proposer deux créneaux pour un échange de décision au téléphone, avant toute échéance du prospect. Si le prospect annule ou ne vient pas : un message court pour recaler, un seul.
 
+**Il a dit oui à l'oral, mais rien n'est calé** (propale envoyée par écrit sans l'avoir présentée, pas de date) : ne pas remettre de doute en lui redemandant s'il est d'accord. Le message parle de la suite : « Quand est-ce qu'on démarre ? », avec deux créneaux pour le lancement, et rappelle que la place est sécurisée à la signature du contrat et du devis (ou au paiement). Dans l'analyse, l'axe n°1 : une propale se présente toujours en live, même sur un accord de principe, même avec quelqu'un qu'on connaît, et on ne raccroche jamais sans date.
+
 Exemples complets (A coaching, B PME) et template : `references/objections-et-mails.md`.
 
 ## Format de sortie (cet ordre, structure complète même si le transcript est partiel)
