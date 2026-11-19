@@ -72,7 +72,9 @@ Puis **proposer l'après**, étape par étape :
 - pour chaque étape restante : **gris** si elle peut être faite par une automatisation ou un agent, **rose** si la personne la garde à la main, **❤️** si c'est là qu'est sa valeur ;
 - pour chaque étape grise, le niveau d'intervention minimum (voir mode B, étape 6) : automatisation simple d'abord si l'étape est déterministe ;
 - les **goulots** : les étapes à faire à la main sans lesquelles la suite ne peut pas avancer ;
-- le temps avant / le temps visé.
+- le temps avant / le temps visé ;
+- **l'après tient-il l'objectif ?** Additionner le temps visé de toutes les phases, y compris les étapes qui restent à la main chaque jour, et le comparer à l'objectif du process (celui donné au cadre, ou écrit dans sa feuille de route). S'il ne passe pas, le dire en clair, chiffres à l'appui (« ton samedi passe à 30 min, mais ton pointage de chaque jour reste à 1 h à 3 h par semaine : tel quel, tu n'atteins pas ton objectif de 30 min »), et lui demander : on retravaille les étapes restantes, ou on réécrit l'objectif ? Ne jamais laisser un après qui manque l'objectif sans le signaler ;
+- **rien de neuf dans un outil qu'on quitte.** Si sa donnée doit migrer vers un autre outil (une future base, un nouveau logiciel décidé dans sa feuille de route), ne jamais proposer de créer une colonne, un champ, une base ou une automatisation dans l'outil qu'il quitte. Ce qui manque se note en post-it orange « À vérifier : à créer dans ta future base ». Construire dans l'ancien outil, c'est travailler deux fois.
 
 L'après est une proposition : la personne valide, corrige, regroupe. Ne rien dessiner en version finale avant son accord sur la liste des étapes.
 
@@ -113,7 +115,7 @@ Détail des questions, grille de cartographie, calcul de ROI et exemple : `refer
 **Mode A (process cartographié)**
 1. Le lien de la frame Miro (ou le visuel dans la conversation).
 2. L'avant en une ligne : nombre d'étapes, temps total, ce qui coûte le plus.
-3. L'après en une ligne : étapes supprimées ou regroupées, ce qui passe en gris, ce qui reste en rose et ❤️, temps visé.
+3. L'après en une ligne : étapes supprimées ou regroupées, ce qui passe en gris, ce qui reste en rose et ❤️, temps visé, et s'il tient l'objectif (sinon, l'écart et la question posée).
 4. Les goulots et ce qu'il faut d'abord (souvent : ranger la donnée dans une base avant d'automatiser).
 5. La suite : la prochaine étape concrète.
 
